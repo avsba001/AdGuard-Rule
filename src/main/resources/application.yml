@@ -12,10 +12,15 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
-      - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
+      - 'https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt' #X浏览器酷安@大萌主维护的专门针对手机端盗版网站广告的拦截规则
       - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt' #Cats-Team
+      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #去除百家号
+      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #ADGK
+      - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt' #easyprivacy隐私规则
+      - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #去app下载提示
+      - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock' #d3ward规则
+      - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts' #yhost
+      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #ad-war
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
