@@ -13,7 +13,7 @@ application:
     #远程规则
     remote:
       - 'https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt' #X浏览器酷安@大萌主维护的专门针对手机端盗版网站广告的拦截规则
-      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt' #Cats-Team
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt' #Cats-Team
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #去除百家号
       - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #ADGK
       - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt' #easyprivacy隐私规则
@@ -21,7 +21,9 @@ application:
       - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock' #d3ward规则
       - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts' #yhost
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #ad-war
-      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt' #超大合集
+      - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts' #1024host
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdguardChinese
+      - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' ##Adguard官方
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
