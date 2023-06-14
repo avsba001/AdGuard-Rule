@@ -21,6 +21,7 @@ application:
       - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock' #d3ward规则
       - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts' #yhost
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #ad-war
+      - 'https://raw.fastgit.org/BlueSkyXN/AdGuardHomeRules/master/all.txt' #BlueSkyXN
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
