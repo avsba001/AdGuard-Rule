@@ -1,4 +1,4 @@
-# Update time: 2023-06-14 18:03:14
+# Update time: 2023-06-14 18:03:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -903,6 +903,9 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 m.douban.com##.score-write
 douyu.com###js-room-activity
 m.toutiao.com###root > div > div.bgwhite.android:nth-child(2) > div.article-container:nth-child(2) > div.fold-btn-container > div.fold-btn:last-child > div.fold-btn-btn:last-child
+::1             localhost
+::1             ip6-localhost
+::1 localhost
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzi.ca,twoeggz.com###pop
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
 qq6080.com##.adh60
@@ -6899,9 +6902,8 @@ waikeung.info##[height="60"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
 h5galgame.com##IMG[src^="http://up.h5gal.cc/data/attachment/portal/201"]
 vzhuan.cn###box
-::1 localhost
-::1             localhost
-::1             ip6-localhost
+#
+# 
 ||zucks.net^$third-party
 ||coinpot.co^$third-party
 ||smartctr.com^$third-party
@@ -19246,5 +19248,3 @@ _event_tracking-
 ||blogtoppen.dk^*/bt_tracker.js
 ||odnoklassniki.ru/dk?cmd=videoStatNew
 /NNAnalyticsWPSites.
-#
-# 
