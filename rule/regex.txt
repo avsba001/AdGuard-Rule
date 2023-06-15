@@ -1,4 +1,4 @@
-# Update time: 2023-06-15 08:51:15
+# Update time: 2023-06-15 20:35:26
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -190,7 +190,6 @@ advertisers.js|
 ||mcdp-*.outbrain.com^
 ||stats2.*.fdnames.com^
 ||servo-report.dvdfab.
-||stats.zone-telechargement.
 ||tracker.twenga.
 ||site.flashx.
 ||analytics-api.dvdfab.
@@ -222,6 +221,7 @@ analytics-*.aasaam.com
 ||cnt.vivatube.
 ||rotabanner.
 ||log*-misc-lf.amemv.com^
+||stats.zone-telechargement.
 ||clk.rtpdn*.com^
 ||flipflapflo.
 ||gonews*.net^
