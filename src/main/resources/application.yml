@@ -25,6 +25,7 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdguardChinese
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt' ##Adguard官方
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker' #neodevhost
+      - 'https://raw.hellogithub.com/hosts' #github520
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
