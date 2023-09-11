@@ -25,10 +25,9 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdguardChinese
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt'           ##Adguard官方
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker'      #neodevhost
-      - 'https://raw.hellogithub.com/hosts'                                            #github520
       - 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt' #SmartTV Blocklist
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'     #1Hosts
-      - 'https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts' github+steam
+      - 'https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts'  # github+steam
       
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
