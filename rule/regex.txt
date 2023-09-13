@@ -1,4 +1,4 @@
-# Update time: 2023-09-12 08:45:26
+# Update time: 2023-09-13 17:38:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -456,27 +456,34 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-rgmechanicsgames.com*VPN.exe
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||adsfilebssdlbig.*.kugou.com^
+||collector.hamsterix.*^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||invenio_tracking_*.sgnapps.com^
+||ads*.dfiles.ru^
+||centent.streamp1ay.
+||v*-ad.video.yximgs.com^
+||log*-applog-*.tiktokv.com^
+Banner468x60
+rgmechanicsgames.com*VPN.exe
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
-||api-access.pangolin-sdk-toutiao*.com^
 ||pagead*.google.com^
 directtrack.*.js
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
-||adsfilebssdlbig.*.kugou.com^
+||fapnado.*.php|
+||itechpost.com*adbk
 @@||cdn-msp*.18comic.*^
-||collector.hamsterix.*^
-||w*.*skwai.com^
-||util-*.simply-hentai.com^
-||invenio_tracking_*.sgnapps.com^
 ||collector.xhamster*.*^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||ads*.dfiles.ru^
+||onetrust.
 ||cas.*.criteo.com^
-||v*-ad.video.yximgs.com^
-||log*-applog-*.tiktokv.com^
+||acookie.*.gif?
 ||spryptvqguhpwt^
 ||ad.*.xiaomi.com^
+||cintent.streanplay.
