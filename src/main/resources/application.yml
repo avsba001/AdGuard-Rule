@@ -19,7 +19,6 @@ application:
       - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt'                   #easyprivacy隐私规则
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #去app下载提示
       - 'https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock'     #d3ward规则
-      - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'               #yhost
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts'              #ad-war
       - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'            #1024host
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdguardChinese
