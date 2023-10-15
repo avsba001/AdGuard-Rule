@@ -129,4 +129,7 @@
 @@||policy.jd.com^$important
 @@||app.chat.xiaomi.net^$important
 @@||venus.yhd.com^$important
+@@||vip-pro.m.yhd.com^$important
+@@||punion.yhd.com^$important
+
 
