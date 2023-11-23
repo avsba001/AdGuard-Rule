@@ -1,4 +1,4 @@
-# Update time: 2023-11-16 20:35:44
+# Update time: 2023-11-23 20:35:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -205,6 +205,7 @@
 127.0.0.1 dsp.ads.umeng.com
 127.0.0.1 www.uyunad.com
 127.0.0.1 juxiao.adsmogo.net
+127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 m.zdjgj.cn
 127.0.0.1 tpc.googlesyndication.com
@@ -222,6 +223,7 @@
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 zs3.cnzz.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 otf.msn.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 huichuan.sm.cn
@@ -282,6 +284,7 @@
 127.0.0.1 tracking.klickthru.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 asp.adsame.com
+127.0.0.1 cbjs.baidu.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
@@ -340,6 +343,7 @@
 127.0.0.1 domob.cn
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 api1.888zy.cn
+127.0.0.1 cb.baidu.com
 127.0.0.1 zs4.cnzz.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 ads.waps.cn
@@ -1352,6 +1356,7 @@
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 hzs17.cnzz.com
@@ -1464,7 +1469,6 @@
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 ee.j5s9b.cn
 127.0.0.1 gi.gepush.com
-127.0.0.1 c.msn.com
 127.0.0.1 ads.data.pplive.com
 127.0.0.1 adapi.shouji.360.cn
 127.0.0.1 ad.flurry.com
@@ -1805,7 +1809,6 @@
 127.0.0.1 lzcei.com
 127.0.0.1 moradu.com
 127.0.0.1 cm.baichuan.baidu.com
-127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 s125.cnzz.com
 127.0.0.1 mitaosp829.17arch.com
 127.0.0.1 p.rfihub.com
@@ -1877,7 +1880,6 @@
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 tg.pxhuiben.com
 127.0.0.1 www.7147999.com
-127.0.0.1 cbjs.baidu.com
 127.0.0.1 anastasiadate.com
 127.0.0.1 www.hg417.bet
 127.0.0.1 www55.superembed.com
@@ -3367,7 +3369,6 @@
 127.0.0.1 www.tt4647.com
 127.0.0.1 zxd.x9393.com
 127.0.0.1 count45.51yes.com
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 buyu9951.com
 127.0.0.1 members.amaland.com
 127.0.0.1 use.teutorigos-phi.com
@@ -3470,7 +3471,6 @@
 127.0.0.1 quanjing.cnzz.com
 127.0.0.1 adk2x.com
 127.0.0.1 wvw.a81444.com
-127.0.0.1 cb.baidu.com
 127.0.0.1 c6.statcounter.com
 127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 rules.quantcount.com
@@ -4478,7 +4478,6 @@
 127.0.0.1 c.statstat888.com
 127.0.0.1 wo1818.cn
 127.0.0.1 ldpgl.code.mytanwan.com
-127.0.0.1 app-measurement.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 www.uciservice.com
@@ -4754,6 +4753,7 @@
 140.82.114.9			codeload.github.com
 3.5.9.193			github-com.s3.amazonaws.com
 3.5.29.94			github-production-release-asset-2e65be.s3.amazonaws.com
+104.87.84.91			store.steampowered.com
 185.199.108.153			github.io
 185.199.108.133			avatars3.githubusercontent.com
 23.60.78.228			static3.cdn.Ubi.com
@@ -4769,31 +4769,30 @@
 52.224.38.193			github.dev
 185.199.108.154			github.githubassets.com
 104.123.153.8			community.akamai.steamstatic.com
-23.7.115.52			steamcommunity.com
-23.50.124.114			store.steampowered.com
+104.98.68.175			steamcommunity.com
 23.222.5.81			steamcdn-a.akamaihd.net
 104.104.82.66			www.steamcommunity.com
 185.199.108.133			avatars1.githubusercontent.com
+140.82.114.26			alive.github.com
 185.199.108.133			avatars5.githubusercontent.com
-140.82.113.3			gist.github.com
 185.199.108.133			camo.githubusercontent.com
-140.82.113.5			api.github.com
 185.199.108.133			github.map.fastly.net
 185.199.108.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
 192.0.66.2			github.blog
 185.199.108.133			favicons.githubusercontent.com
+140.82.112.5			api.github.com
+3.5.29.121			github-cloud.s3.amazonaws.com
 23.45.233.43			cdn.akamai.steamstatic.com
-140.82.114.4			github.com
-16.182.103.129			github-cloud.s3.amazonaws.com
+140.82.114.26			live.github.com
+140.82.114.3			github.com
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars2.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
 151.101.1.194			github.global.ssl.fastly.net
 104.104.85.160			api.steampowered.com
 23.48.99.11			store.akamai.steamstatic.com
+140.82.112.3			gist.github.com
 140.82.112.22			central.github.com
-140.82.114.25			alive.github.com
 3.5.25.17			github-production-user-asset-6210df.s3.amazonaws.com
 104.104.82.66			steam-chat.com
-140.82.114.25			live.github.com
