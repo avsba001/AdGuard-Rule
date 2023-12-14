@@ -1,4 +1,4 @@
-# Update time: 2023-12-13 20:17:52
+# Update time: 2023-12-14 20:17:17
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4756,7 +4756,6 @@
 185.199.108.153			github.io
 185.199.108.133			avatars3.githubusercontent.com
 140.82.114.3			gist.github.com
-184.86.171.203			api.steampowered.com
 23.55.220.139			store.akamai.steamstatic.com
 185.199.108.133			raw.githubusercontent.com
 23.221.241.203			static2.cdn.Ubi.com
@@ -4774,6 +4773,7 @@
 23.55.220.137			cdn.akamai.steamstatic.com
 23.79.56.40			steam-chat.com
 140.82.113.25			live.github.com
+23.64.7.151			api.steampowered.com
 23.56.8.80			store.steampowered.com
 140.82.114.5			api.github.com
 185.199.108.133			avatars1.githubusercontent.com
