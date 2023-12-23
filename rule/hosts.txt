@@ -1,4 +1,4 @@
-# Update time: 2023-12-22 20:16:06
+# Update time: 2023-12-23 20:14:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -205,7 +205,6 @@
 127.0.0.1 dsp.ads.umeng.com
 127.0.0.1 www.uyunad.com
 127.0.0.1 juxiao.adsmogo.net
-127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 m.zdjgj.cn
 127.0.0.1 tpc.googlesyndication.com
@@ -223,7 +222,6 @@
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 zs3.cnzz.com
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 otf.msn.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 huichuan.sm.cn
@@ -284,7 +282,6 @@
 127.0.0.1 tracking.klickthru.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 asp.adsame.com
-127.0.0.1 cbjs.baidu.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
@@ -343,7 +340,6 @@
 127.0.0.1 domob.cn
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 api1.888zy.cn
-127.0.0.1 cb.baidu.com
 127.0.0.1 zs4.cnzz.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 ads.waps.cn
@@ -405,7 +401,6 @@
 127.0.0.1 rs-staticart.ybcdn.net
 127.0.0.1 ad.netowl.jp
 127.0.0.1 p.appjiagu.com
-127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 adm.icast.cn
 127.0.0.1 dsa-mfp.fengshows.cn
@@ -438,12 +433,10 @@
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 au.youmi.net
 127.0.0.1 397c0.admaster.com.cn
-127.0.0.1 cdn0.mobmore.com
 127.0.0.1 m.gdt.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 keybut.com
-127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 cm.l.qq.com
 127.0.0.1 adultmoda.com
 127.0.0.1 adsys.sinovision.net
@@ -670,7 +663,6 @@
 127.0.0.1 hnb2c.adsame.com
 127.0.0.1 baichuan-sdk.alicdn.com
 127.0.0.1 www2.smartadserver.com
-127.0.0.1 click2forhz.adsmogo.com
 127.0.0.1 union.gdtimg.com
 127.0.0.1 ads.aplus.pptv.com
 127.0.0.1 dm.pstatp.com
@@ -703,7 +695,6 @@
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 sdk.guard.mob.com
-127.0.0.1 click.admaster.com.cn
 127.0.0.1 adsdk.vivo.com.cn
 127.0.0.1 b-gi.getui.com
 127.0.0.1 b-gtc.getui.net
@@ -1060,7 +1051,6 @@
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 lc.getui.com
@@ -1075,7 +1065,6 @@
 127.0.0.1 tran.mediav.com
 127.0.0.1 au.w.inmobi.cn
 127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 ei.cnzz.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 c-gtc.getui.com
@@ -1253,7 +1242,6 @@
 127.0.0.1 api-ads.tiantianqutao.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 static.g.iqiyi.com
-127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 rt.funshion.net
 127.0.0.1 bj.imp.voiceads.cn
@@ -1278,7 +1266,6 @@
 127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 adstextview.qq.com
 127.0.0.1 adashbc.ut.taobao.com
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 mobgi.com
 127.0.0.1 px.ucweb.com
 127.0.0.1 zs7.cnzz.com
@@ -1310,7 +1297,6 @@
 127.0.0.1 f.gm.mob.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 i.l.inmobicdn.net
-127.0.0.1 click.mediav.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 static.mediav.com
 127.0.0.1 z8.cnzz.com
@@ -1328,7 +1314,6 @@
 127.0.0.1 ad-count.adwo.com
 127.0.0.1 hzs12.cnzz.com
 127.0.0.1 ad.ikonke.com
-127.0.0.1 bdplus.baidu.com
 127.0.0.1 news-l.play.ott.video.qq.com
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 d2.sina.com.cn
@@ -1359,7 +1344,6 @@
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 hzs17.cnzz.com
@@ -1403,7 +1387,6 @@
 127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 api.applink.mob.com
 127.0.0.1 sdk.s.360.cn
-127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 adsehera.ximalaya.com
 127.0.0.1 upoll.umengcloud.com
 127.0.0.1 m2m1.inner-active.mobi
@@ -1535,9 +1518,7 @@
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashxgc.ut.taobao.com
-127.0.0.1 cm.baidu.com
 127.0.0.1 static-ssl.mediav.com
-127.0.0.1 cm.pos.baidu.com
 127.0.0.1 api.myadsget.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 m.aty.sohu.com
@@ -1552,7 +1533,6 @@
 127.0.0.1 short-video.kakamobi.cn
 127.0.0.1 hzs2.cnzz.com
 127.0.0.1 s72f5a8e.irs03.com
-127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 ads.vserv.mobi
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 beacon.sina.com.cn
@@ -1629,7 +1609,6 @@
 127.0.0.1 c.data.mob.com
 127.0.0.1 b.admedia.com
 127.0.0.1 b-gi.gepush.com
-127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 i.gdt.qq.com
 127.0.0.1 asotrack1.fluentmobile.com
 127.0.0.1 v.admaster.com.cn
@@ -1813,6 +1792,7 @@
 127.0.0.1 lzcei.com
 127.0.0.1 moradu.com
 127.0.0.1 cm.baichuan.baidu.com
+127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 s125.cnzz.com
 127.0.0.1 mitaosp829.17arch.com
 127.0.0.1 p.rfihub.com
@@ -1884,6 +1864,7 @@
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 tg.pxhuiben.com
 127.0.0.1 www.7147999.com
+127.0.0.1 cbjs.baidu.com
 127.0.0.1 anastasiadate.com
 127.0.0.1 www.hg417.bet
 127.0.0.1 www55.superembed.com
@@ -2231,6 +2212,7 @@
 127.0.0.1 n2050.com
 127.0.0.1 www.99469.com
 127.0.0.1 track.iafov.com
+127.0.0.1 click2forhz.adsmogo.com
 127.0.0.1 p5.tribution.mobi
 127.0.0.1 www.vns4398.com
 127.0.0.1 www19.superembed.com
@@ -2811,6 +2793,7 @@
 127.0.0.1 www.rrcai.com
 127.0.0.1 f9.mtqys.com
 127.0.0.1 jkstudy.cc
+127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 h1.kukuw.com
 127.0.0.1 antdmn.xyz
 127.0.0.1 buyu9914.com
@@ -2843,6 +2826,7 @@
 127.0.0.1 c16cp358.com
 127.0.0.1 s51.cnzz.com
 127.0.0.1 www.xh83333.com
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.flv.uuzuonline.com
 127.0.0.1 www.123ad.com
@@ -2875,6 +2859,7 @@
 127.0.0.1 f5.mtqys.com
 127.0.0.1 platform.adsymptotic.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 click.mediav.com
 127.0.0.1 www.538porn.com
 127.0.0.1 s100.cnzz.com
 127.0.0.1 gg333js.com
@@ -2893,6 +2878,7 @@
 127.0.0.1 sync.mathtag.com
 127.0.0.1 www.a823.com
 127.0.0.1 js.pusher.com
+127.0.0.1 bdplus.baidu.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 v29.com
 127.0.0.1 ads7.contentabc.com
@@ -2978,6 +2964,7 @@
 127.0.0.1 updates.guitar-pro.com
 127.0.0.1 track.trackclickers.com
 127.0.0.1 bbtt9.com
+127.0.0.1 click3forhz.adsmogo.com
 127.0.0.1 buyu9974.com
 127.0.0.1 adsniper.ru
 127.0.0.1 ad-formats.advertising.aol.com
@@ -3113,6 +3100,7 @@
 127.0.0.1 www.21365k.com
 127.0.0.1 www.4242jj.com
 127.0.0.1 rec.g.163.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 freeteen.com
 127.0.0.1 new.atas.io
 127.0.0.1 buyu0000.com
@@ -3371,6 +3359,7 @@
 127.0.0.1 www.tt4647.com
 127.0.0.1 zxd.x9393.com
 127.0.0.1 count45.51yes.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 buyu9951.com
 127.0.0.1 members.amaland.com
 127.0.0.1 use.teutorigos-phi.com
@@ -3473,6 +3462,7 @@
 127.0.0.1 quanjing.cnzz.com
 127.0.0.1 adk2x.com
 127.0.0.1 wvw.a81444.com
+127.0.0.1 cb.baidu.com
 127.0.0.1 c6.statcounter.com
 127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 rules.quantcount.com
@@ -3544,6 +3534,7 @@
 127.0.0.1 buyu9912.com
 127.0.0.1 buyu9998.com
 127.0.0.1 sync.adsniper.ru
+127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 ads.shorte.st
 127.0.0.1 appcdn.wapx.com
 127.0.0.1 ns2.cnzz.com
@@ -3564,6 +3555,7 @@
 127.0.0.1 xpj16.net
 127.0.0.1 p1.tribution.mobi
 127.0.0.1 api5.tuisong.baidu.com
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 xia.coreldrawchina.com
 127.0.0.1 c.dfgyw.com
 127.0.0.1 getnewsupdate.info
@@ -3573,6 +3565,7 @@
 127.0.0.1 a.cnzz.com
 127.0.0.1 buyu9928.com
 127.0.0.1 toutoucao8.com
+127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 jxteerte.net
 127.0.0.1 ky.g66667777.com
 127.0.0.1 www.h99999999.com
@@ -3835,6 +3828,7 @@
 127.0.0.1 chat.youzu.com
 127.0.0.1 vdax.uuzu.com
 127.0.0.1 wpte.j8inn1zektoe.com
+127.0.0.1 click.admaster.com.cn
 127.0.0.1 www.rr7576.com
 127.0.0.1 accede.site
 127.0.0.1 ss7778.com
@@ -4191,6 +4185,7 @@
 127.0.0.1 www.400538.com
 127.0.0.1 v12.cnzz.com
 127.0.0.1 www.emoneyspace.com
+127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 k0398.com
 127.0.0.1 baigm.com
 127.0.0.1 beta.adriver.ru
@@ -4207,6 +4202,7 @@
 127.0.0.1 mobpushup.com
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 www.yimingkennel.com
+127.0.0.1 ei.cnzz.com
 127.0.0.1 chntdnc.cn
 127.0.0.1 baidu.dsp.tansuotv.com
 127.0.0.1 goldspring.net
@@ -4479,6 +4475,7 @@
 127.0.0.1 c.statstat888.com
 127.0.0.1 wo1818.cn
 127.0.0.1 ldpgl.code.mytanwan.com
+127.0.0.1 app-measurement.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 www.uciservice.com
@@ -4638,6 +4635,7 @@
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 v3.fstats.xyz
 127.0.0.1 croissed.info
+127.0.0.1 cm.pos.baidu.com
 127.0.0.1 www.66fu2d.com
 127.0.0.1 www.russianwomansite.com
 127.0.0.1 qq88bet.net
@@ -4651,6 +4649,7 @@
 127.0.0.1 lyf.com
 127.0.0.1 dl.ijinshan.com
 127.0.0.1 cap.touclick.com
+127.0.0.1 bid.g.doubleclick.net
 127.0.0.1 www.menwww.com
 127.0.0.1 s40.cnzz.com
 127.0.0.1 vns1.net
@@ -4723,6 +4722,7 @@
 127.0.0.1 sha50.com
 127.0.0.1 trk.obix.pro
 127.0.0.1 ns1.adriver.ru
+127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 s111.cnzz.com
 127.0.0.1 www.9225f.com
 127.0.0.1 123haose.com
@@ -4751,6 +4751,7 @@
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 pt.trafficjunky.net
 104.102.129.112			steamcommunity.com
+140.82.112.26			alive.github.com
 185.199.108.153			github.io
 185.199.108.133			avatars3.githubusercontent.com
 140.82.112.3			github.com
@@ -4772,11 +4773,9 @@
 140.82.114.6			api.github.com
 23.55.220.137			cdn.akamai.steamstatic.com
 23.79.56.40			steam-chat.com
-140.82.113.25			live.github.com
 23.64.7.151			api.steampowered.com
 185.199.108.133			avatars1.githubusercontent.com
 23.202.153.171			store.steampowered.com
-140.82.114.26			alive.github.com
 185.199.108.133			avatars5.githubusercontent.com
 69.192.208.238			static3.cdn.Ubi.com
 3.5.9.158			github-cloud.s3.amazonaws.com
@@ -4795,4 +4794,5 @@
 23.204.255.70			www.steamcommunity.com
 140.82.112.22			central.github.com
 23.215.0.133			steamcdn-a.akamaihd.net
+140.82.114.25			live.github.com
 3.5.27.108			github-com.s3.amazonaws.com
