@@ -1,4 +1,4 @@
-# Update time: 2023-12-23 20:14:47
+# Update time: 2023-12-24 20:15:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -193,13 +193,27 @@ advertisers.js|
 ||122.225.103.*.htm
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||bc.geocities.
 ||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
+||collector-*.px-client.net^
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
-||sta.zone-telechargement.
+||stats-*.p2pnow.ru^
 ||stats*.credit-cooperatif.coop^
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||adservice.google.
+||servo-report.dvdfab.
+||stats.zone-telechargement.
+||tracker.twenga.
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||analytics-api.dvdfab.
+||aff*.kolektiva.net^
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||sta.zone-telechargement.
+||pixel.archive.
+||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -210,7 +224,6 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
-||adservice.google.
 ||counter*.stat.ovh^
 ||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
@@ -228,8 +241,6 @@ analytics-*.aasaam.com
 ||cnt.vivatube.
 ||rotabanner.
 ||log*-misc-lf.amemv.com^
-||stats2.*.fdnames.com^
-||stats.zone-telechargement.
 ||clk.rtpdn*.com^
 ||flipflapflo.
 ||gonews*.net^
@@ -255,7 +266,6 @@ analytics-*.aasaam.com
 ||cnt.nuvid.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
-||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||linkexchange.
@@ -302,7 +312,6 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
-||aff*.kolektiva.net^
 ||adx-*.dbankedge.cn^
 ||pixel-*.rubiconproject.com^
 ||cdn-adn-*.rayjump.com^
@@ -325,7 +334,6 @@ analytics-*.aasaam.com
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||adserver1.
-||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||adx-*.dbankcloud.
 ||pop-parad.
@@ -335,7 +343,6 @@ analytics-*.aasaam.com
 ||mediacontext.
 ||videoclick.
 ||batchlogging*-eu.truecaller.com^
-||stats-*.p2pnow.ru^
 ||admulti.
 ||admicro*.vcmedia.vn^
 ||eum*.instana.io^
@@ -354,7 +361,6 @@ analytics-*.aasaam.com
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
 ||xlog*-*.tiktokv.com^
-||analytics-api.dvdfab.
 ||analytics-*-nfl.yinzcam.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||v*-ad.video.yximgs.com^
@@ -378,13 +384,11 @@ analytics-*.aasaam.com
 ||underclick.
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
 ||cnt.hd21.
 ||adv0*.msa.cdn.mediaset.net^
-||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||pop-under.
 ||gscounters.*.gigya.com^
@@ -397,12 +401,10 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||api*.batmobil.net^
 ||under-click.
-||collector-*.px-client.net^
 ||log-*.epicdn.me^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
-||tracker.twenga.
 ||cdn*.swaxis.com^
 ||minero-proxy-*.sh^
 ||log*.aliyuncs.com^
@@ -415,7 +417,6 @@ analytics-*.aasaam.com
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
 ||sdk.fra-*.braze.eu^
-||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -444,7 +445,6 @@ analytics-*.aasaam.com
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
-||pixel.archive.
 ||log-*.zadn.vn^
 ||collect-v*.51.la^
 ||q*-publick.club^
