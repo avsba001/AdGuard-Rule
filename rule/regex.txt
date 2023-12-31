@@ -1,4 +1,4 @@
-# Update time: 2023-12-30 20:14:56
+# Update time: 2023-12-31 20:15:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,15 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||tupian888.*.bcebos.com^
@@ -454,15 +463,6 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 |71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||solutions.|pages.indigovision.com^
 ||stats.zone-annuaire.
