@@ -1,4 +1,4 @@
-# Update time: 2024-01-03 20:16:41
+# Update time: 2024-01-04 20:16:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -69,15 +69,6 @@
 ||zahrvfbd*.xyz^
 ||zbc6hy*.live^
 ||gtlpa*.com^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -150,6 +141,15 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -247,7 +247,6 @@ analytics-*.aasaam.com
 ||cnt.nuvid.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
-||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
 ||linkexchange.
@@ -396,7 +395,6 @@ analytics-*.aasaam.com
 ||ad-*.amazonaws.com^
 ||tracker.twenga.
 ||cdn*.swaxis.com^
-||minero-proxy-*.sh^
 ||log*.aliyuncs.com^
 ||icq-window.
 ||geoloc*.geovisite.ovh^
@@ -463,14 +461,20 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
-||solutions.|pages.indigovision.com^
-||stats.zone-annuaire.
+||promos.thermoscientific.c||registrieren.investinontario.com^
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
-||sta.zone-telechargement.
+||smetricst^
+||smetrics.urgen|smetrics.waters.com^
+||s||smetrics.globalmedcomms.com^
 ||stats*.credit-cooperatif.coop^
+|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||sta.zone-telechargement.
+||track.info.cancerth||tracking.adpri.org^
 ||analytics.ticketmaster.
+||solutions.|pages.indigovision.com^
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||collector.hamsterix.*^
