@@ -1,4 +1,4 @@
-# Update time: 2024-01-04 20:16:23
+# Update time: 2024-01-05 20:16:41
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,15 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||tupian888.*.bcebos.com^
@@ -141,15 +150,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -461,20 +461,24 @@ analytics-*.aasaam.com
 ||poptraf.
 ||4adtf.com.^
 ||v*.sitecounter.site^
-||promos.thermoscientific.c||registrieren.investinontario.com^
+||smetriccom^
+||xxlef||xyhojp.lacoste.com^
+||images.contacto.uni|images.e.seagate.com^
 ||stat.*.v-56.com^
 ||matt.mercadolibre.
-||smetricst^
-||smetrics.urgen|smetrics.waters.com^
-||s||smetrics.globalmedcomms.com^
 ||stats*.credit-cooperatif.coop^
-|71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
+||welcome..org^
+||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
+||link.localmasters.co||link.plazahogar.com.py^
+||aa.dyson.es||adbmetrics.koreanair.com^
+||metrics.gali|metrics.reallymoving.com^
+||build|click.signaturemarket.co^
 ||stats.zone-annuaire.
 ||geotargetly-api-*.com^
+||smcom^
+||emam^
 ||sta.zone-telechargement.
-||track.info.cancerth||tracking.adpri.org^
 ||analytics.ticketmaster.
-||solutions.|pages.indigovision.com^
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||collector.hamsterix.*^
