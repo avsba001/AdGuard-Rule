@@ -1,4 +1,4 @@
-# Update time: 2024-01-07 20:15:42
+# Update time: 2024-01-08 20:17:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4757,7 +4757,6 @@
 3.5.25.214			github-production-release-asset-2e65be.s3.amazonaws.com
 23.55.220.139			store.akamai.steamstatic.com
 185.199.108.133			raw.githubusercontent.com
-23.221.241.203			static2.cdn.Ubi.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			media.githubusercontent.com
 96.7.17.96			help.steampowered.com
@@ -4775,7 +4774,6 @@
 23.48.9.171			store.steampowered.com
 140.82.114.21			central.github.com
 185.199.108.133			avatars5.githubusercontent.com
-69.192.208.238			static3.cdn.Ubi.com
 185.199.108.133			camo.githubusercontent.com
 185.199.108.133			github.map.fastly.net
 3.5.25.194			github-cloud.s3.amazonaws.com
@@ -4785,9 +4783,11 @@
 185.199.108.133			favicons.githubusercontent.com
 140.82.112.5			api.github.com
 140.82.112.17			github.community
+23.218.189.205			static2.cdn.Ubi.com
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars2.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
+23.222.201.62			static3.cdn.Ubi.com
 151.101.1.194			github.global.ssl.fastly.net
 3.5.25.136			github-production-repository-file-5c1aeb.s3.amazonaws.com
 23.0.18.123			steamcommunity.com
