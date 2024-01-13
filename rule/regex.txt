@@ -1,4 +1,4 @@
-# Update time: 2024-01-12 20:17:02
+# Update time: 2024-01-13 20:15:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -236,6 +236,7 @@ analytics-*.aasaam.com
 ||cnt.yeptube.
 ||iptracker-lb-*.amazonaws.com^
 ||putrr*.com^
+||cpng.lol.^
 ||alishop*.ru^
 ||pijama.*.elasticbeanstalk.com^
 ||pixel*.adswizz.com
@@ -436,6 +437,7 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||log-*.zadn.vn^
+||onedmp.com.^
 ||collect-v*.51.la^
 ||q*-publick.club^
 ||logger-*.dailymotion.com^
