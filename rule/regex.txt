@@ -1,4 +1,4 @@
-# Update time: 2024-01-26 20:15:19
+# Update time: 2024-01-27 20:13:40
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -49,7 +49,6 @@
 
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||tupian888.*.bcebos.com^
 ||zabdybod*.club^
 ||js.*2023*.live^
 ||yhsfsdv*.com^
@@ -175,6 +174,7 @@ advertisers.js|
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
+||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||120.27.*.html
 ||gcw*.2liang.cn^
