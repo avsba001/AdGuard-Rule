@@ -1,4 +1,4 @@
-# Update time: 2024-02-07 20:15:36
+# Update time: 2024-02-08 00:24:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -4750,49 +4750,3 @@
 127.0.0.1 huodong.mobilem.360.cn
 127.0.0.1 pt.trafficjunky.net
 127.0.0.1 sync.shinobi.jp
-140.82.113.26			live.github.com
-16.182.74.153			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.110			github-production-user-asset-6210df.s3.amazonaws.com
-185.199.108.153			github.io
-185.199.108.133			avatars3.githubusercontent.com
-104.105.90.131			steamcommunity.com
-185.199.108.133			raw.githubusercontent.com
-185.199.108.133			user-images.githubusercontent.com
-185.199.108.133			media.githubusercontent.com
-185.199.108.133			avatars4.githubusercontent.com
-185.199.108.153			githubstatus.com
-52.224.38.193			github.dev
-104.96.220.106			steamcdn-a.akamaihd.net
-185.199.108.154			github.githubassets.com
-140.82.114.6			api.github.com
-140.82.113.3			github.com
-104.72.156.91			store.steampowered.com
-185.199.108.133			avatars1.githubusercontent.com
-140.82.113.18			github.community
-140.82.114.26			alive.github.com
-140.82.114.21			central.github.com
-185.199.108.133			avatars5.githubusercontent.com
-104.68.245.187			www.steamcommunity.com
-185.199.108.133			camo.githubusercontent.com
-140.82.112.9			codeload.github.com
-185.199.108.133			github.map.fastly.net
-104.123.153.18			store.akamai.steamstatic.com
-185.199.108.133			desktop.githubusercontent.com
-185.199.108.153			assets-cdn.github.com
-192.0.66.2			github.blog
-185.199.108.133			favicons.githubusercontent.com
-16.182.66.9			github-cloud.s3.amazonaws.com
-104.104.85.160			help.steampowered.com
-3.5.0.201			github-com.s3.amazonaws.com
-23.218.189.205			static2.cdn.Ubi.com
-23.192.220.201			cdn.akamai.steamstatic.com
-185.199.108.133			avatars0.githubusercontent.com
-185.199.108.133			avatars2.githubusercontent.com
-185.199.108.133			avatars.githubusercontent.com
-23.222.201.62			static3.cdn.Ubi.com
-151.101.1.194			github.global.ssl.fastly.net
-104.104.85.160			api.steampowered.com
-140.82.113.4			gist.github.com
-3.5.25.136			github-production-repository-file-5c1aeb.s3.amazonaws.com
-23.205.104.54			community.akamai.steamstatic.com
-23.62.69.145			steam-chat.com
