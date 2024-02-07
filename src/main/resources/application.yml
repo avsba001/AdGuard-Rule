@@ -26,7 +26,7 @@ application:
       - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker'      #neodevhost
       - 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt' #SmartTV Blocklist
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'     #1Hosts
-      - 'https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts'  # github+steam
+      - 'https://big.oisd.nl/'     #1Hosts
       
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
