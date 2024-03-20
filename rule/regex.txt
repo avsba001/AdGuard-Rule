@@ -1,4 +1,4 @@
-# Update time: 2024-03-19 20:16:13
+# Update time: 2024-03-20 20:15:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -207,6 +207,7 @@ advertisers.js|
 ||stats-*.p2pnow.ru^
 ||ubt.tracking.shopee.
 ||stats2.*.fdnames.com^
+||stats.zone-telechargement.
 ||tracker.twenga.
 ||aff*.kolektiva.net^
 ||stats.zone-annuaire.
@@ -240,7 +241,6 @@ analytics-*.aasaam.com
 ||cnt.vivatube.
 ||rotabanner.
 ||log*-misc-lf.amemv.com^
-||stats.zone-telechargement.
 ||clk.rtpdn*.com^
 ||flipflapflo.
 ||gonews*.net^
