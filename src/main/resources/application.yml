@@ -23,7 +23,6 @@ application:
       - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'            #1024host
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #AdguardChinese
       - 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt'           ##Adguard官方
-      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker'      #neodevhost
       - 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt' #SmartTV Blocklist
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt'     #1Hosts
       - 'https://small.oisd.nl'     #oisd
