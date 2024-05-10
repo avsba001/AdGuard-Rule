@@ -1,4 +1,4 @@
-# Update time: 2024-05-09 20:16:57
+# Update time: 2024-05-10 20:16:43
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -116,7 +116,6 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -424,7 +423,6 @@
 127.0.0.1 pro.cn
 127.0.0.1 d9.sina.com.cn
 127.0.0.1 m2.da.mgtv.com
-127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 vr.gdt.qq.com
@@ -440,6 +438,7 @@
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 au.youmi.net
 127.0.0.1 397c0.admaster.com.cn
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 m.gdt.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 p1-lm.adkwai.com
@@ -637,7 +636,6 @@
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 abtest-ch.snssdk.com
 127.0.0.1 me.xdrig.com
-127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 oeeee.adsame.com
 127.0.0.1 www.ad5lm.net
 127.0.0.1 paopao-monitor.iqiyi.com
@@ -705,6 +703,7 @@
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 sdk.guard.mob.com
+127.0.0.1 click.admaster.com.cn
 127.0.0.1 adsdk.vivo.com.cn
 127.0.0.1 b-gi.getui.com
 127.0.0.1 b-gtc.getui.net
@@ -930,7 +929,6 @@
 127.0.0.1 mobpartner.mobi
 127.0.0.1 z2.cnzz.com
 127.0.0.1 paopao3.qiyipic.com
-127.0.0.1 ad.player.baidu.com
 127.0.0.1 apps.buzzcity.net
 127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 yaolu.yuedu.163.com
@@ -981,7 +979,6 @@
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 ad.api.youshiad.cn
 127.0.0.1 ta.qq.com
-127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 cdn.appnext.com
 127.0.0.1 ad2.yam.com
@@ -1162,7 +1159,6 @@
 127.0.0.1 agn.aty.snmsohu.aisee.tv
 127.0.0.1 creative1cdn.mobfox.com
 127.0.0.1 xinhuanet.adsame.com
-127.0.0.1 ad.doubleclick.net
 127.0.0.1 z10.cnzz.com
 127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 cnf.adbana.com
@@ -1223,7 +1219,6 @@
 127.0.0.1 www.admaji.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 pv.mediav.com
-127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 pdn.applovin.com
 127.0.0.1 aduu.cn
 127.0.0.1 wbapp.mobile.sina.cn
@@ -1462,7 +1457,6 @@
 127.0.0.1 r.edge.inmobicdn.net
 127.0.0.1 diff3.smartadserver.com
 127.0.0.1 stnetsdk.vivo.com.cn
-127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 browserkernel.baidu.com
 127.0.0.1 adcontent.saymedia.com
 127.0.0.1 zs11.cnzz.com
@@ -1663,7 +1657,6 @@
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
 127.0.0.1 list.z.qingting.fm
 127.0.0.1 v2.gdt.qq.com
-127.0.0.1 android.rqd.qq.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 lives.l.qq.com
 127.0.0.1 max.mediav.com
@@ -1748,6 +1741,7 @@
 127.0.0.1 pt.clickdata.37wan.com
 127.0.0.1 cdn.11h5.com
 127.0.0.1 c.d3iz9md.com
+127.0.0.1 a.baidu.com
 127.0.0.1 shop.spyoff.com
 127.0.0.1 vns8yhn.com
 127.0.0.1 mgid.com
@@ -2209,6 +2203,7 @@
 127.0.0.1 d8885.com
 127.0.0.1 okaymobi.com
 127.0.0.1 api6.dating.com
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 v14.cnzz.com
 127.0.0.1 s44.cnzz.com
 127.0.0.1 mp8883.com
@@ -2487,6 +2482,7 @@
 127.0.0.1 www.11cbb.com
 127.0.0.1 cm.adskeeper.co.uk
 127.0.0.1 twmall.sexyno1.com
+127.0.0.1 ad.player.baidu.com
 127.0.0.1 www.gb544.com
 127.0.0.1 www.pcstore.com.tw
 127.0.0.1 r.trwl1.com
@@ -2722,6 +2718,7 @@
 127.0.0.1 in.treasuredata.com
 127.0.0.1 help.exoclick.com
 127.0.0.1 ap.adriver.ru
+127.0.0.1 ad.doubleclick.net
 127.0.0.1 crashes.mo.wps.cn
 127.0.0.1 hm3.cnzz.com
 127.0.0.1 media.innity.net
@@ -3208,6 +3205,7 @@
 127.0.0.1 f18.livechatvalue.com
 127.0.0.1 drivecdn.com
 127.0.0.1 js.adriver.ru
+127.0.0.1 android.rqd.qq.com
 127.0.0.1 pay.t7k.space
 127.0.0.1 qulishi.com
 127.0.0.1 kwcscdn.000dn.com
@@ -3559,6 +3557,7 @@
 127.0.0.1 a823.com
 127.0.0.1 360adlab.cn
 127.0.0.1 juicyads.com
+127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 javbox111.com
 127.0.0.1 api.api68.com
@@ -3568,7 +3567,6 @@
 127.0.0.1 xpj16.net
 127.0.0.1 p1.tribution.mobi
 127.0.0.1 api5.tuisong.baidu.com
-127.0.0.1 cdn0.mobmore.com
 127.0.0.1 xia.coreldrawchina.com
 127.0.0.1 c.dfgyw.com
 127.0.0.1 getnewsupdate.info
@@ -3839,7 +3837,6 @@
 127.0.0.1 chat.youzu.com
 127.0.0.1 vdax.uuzu.com
 127.0.0.1 wpte.j8inn1zektoe.com
-127.0.0.1 click.admaster.com.cn
 127.0.0.1 www.rr7576.com
 127.0.0.1 accede.site
 127.0.0.1 ss7778.com
@@ -4120,6 +4117,7 @@
 127.0.0.1 s8.addthis.com
 127.0.0.1 xapi.juicyads.com
 127.0.0.1 www.33033k.com
+127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 www.5547555.com
 127.0.0.1 e.tdtsd.com
 127.0.0.1 makeding.com
@@ -4353,6 +4351,7 @@
 127.0.0.1 www.v29.com
 127.0.0.1 bogo777.com
 127.0.0.1 s2.adform.net
+127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 ip.ws.126.net
 127.0.0.1 pushwhy.com
 127.0.0.1 buyu906.com
@@ -4563,6 +4562,7 @@
 127.0.0.1 cd011.www.duba.net
 127.0.0.1 www.bb1429.com
 127.0.0.1 cdnimg.liehu.ijinshan.com
+127.0.0.1 ad-apac.doubleclick.net
 127.0.0.1 www.88ffbb.com
 127.0.0.1 doublex.net
 127.0.0.1 muvflix.com
