@@ -1,4 +1,4 @@
-# Update time: 2024-05-12 20:17:33
+# Update time: 2024-05-13 20:17:59
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -205,7 +205,6 @@
 127.0.0.1 dsp.ads.umeng.com
 127.0.0.1 www.uyunad.com
 127.0.0.1 juxiao.adsmogo.net
-127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 vsohu.admaster.com.cn
 127.0.0.1 m.zdjgj.cn
 127.0.0.1 tpc.googlesyndication.com
@@ -223,7 +222,6 @@
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 zs3.cnzz.com
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 otf.msn.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 huichuan.sm.cn
@@ -426,6 +424,7 @@
 127.0.0.1 advertpay-vip-ssl.xunlei.com
 127.0.0.1 vr.gdt.qq.com
 127.0.0.1 xn--xhq9mt12cf5v.website
+127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 cdn-sdk-opt.getui.com
 127.0.0.1 letv.irs01.com
@@ -699,6 +698,7 @@
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 sdk.guard.mob.com
+127.0.0.1 click.admaster.com.cn
 127.0.0.1 adsdk.vivo.com.cn
 127.0.0.1 b-gi.getui.com
 127.0.0.1 b-gtc.getui.net
@@ -1070,7 +1070,6 @@
 127.0.0.1 tran.mediav.com
 127.0.0.1 au.w.inmobi.cn
 127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 ei.cnzz.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 c-gtc.getui.com
@@ -1352,6 +1351,7 @@
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 hzs17.cnzz.com
@@ -1802,6 +1802,7 @@
 127.0.0.1 lzcei.com
 127.0.0.1 moradu.com
 127.0.0.1 cm.baichuan.baidu.com
+127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 s125.cnzz.com
 127.0.0.1 mitaosp829.17arch.com
 127.0.0.1 p.rfihub.com
@@ -3364,6 +3365,7 @@
 127.0.0.1 www.tt4647.com
 127.0.0.1 zxd.x9393.com
 127.0.0.1 count45.51yes.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 buyu9951.com
 127.0.0.1 members.amaland.com
 127.0.0.1 use.teutorigos-phi.com
@@ -3551,7 +3553,6 @@
 127.0.0.1 ad.jp.doubleclick.net
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 javbox111.com
-127.0.0.1 adm.10jqka.com.cn
 127.0.0.1 api.api68.com
 127.0.0.1 attenhance.com
 127.0.0.1 www.22222xu.com
@@ -3831,7 +3832,6 @@
 127.0.0.1 chat.youzu.com
 127.0.0.1 vdax.uuzu.com
 127.0.0.1 wpte.j8inn1zektoe.com
-127.0.0.1 click.admaster.com.cn
 127.0.0.1 www.rr7576.com
 127.0.0.1 accede.site
 127.0.0.1 ss7778.com
@@ -4204,6 +4204,7 @@
 127.0.0.1 mobpushup.com
 127.0.0.1 api.shuaji.360.cn
 127.0.0.1 www.yimingkennel.com
+127.0.0.1 ei.cnzz.com
 127.0.0.1 chntdnc.cn
 127.0.0.1 baidu.dsp.tansuotv.com
 127.0.0.1 goldspring.net
@@ -4476,7 +4477,6 @@
 127.0.0.1 c.statstat888.com
 127.0.0.1 wo1818.cn
 127.0.0.1 ldpgl.code.mytanwan.com
-127.0.0.1 app-measurement.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 www.uciservice.com
