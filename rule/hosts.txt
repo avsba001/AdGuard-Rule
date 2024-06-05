@@ -1,4 +1,4 @@
-# Update time: 2024-06-04 20:18:11
+# Update time: 2024-06-05 20:18:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -211,6 +211,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 ssdk.adkmob.com
 127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 api1.tuisong.baidu.com
 127.0.0.1 youku-dtv.m.cn.miaozhen.com
 127.0.0.1 p3.l.qq.com
 127.0.0.1 adx.ads.oppomobile.com
@@ -437,12 +438,10 @@
 127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 au.youmi.net
 127.0.0.1 397c0.admaster.com.cn
-127.0.0.1 cdn0.mobmore.com
 127.0.0.1 m.gdt.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 keybut.com
-127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 cm.l.qq.com
 127.0.0.1 adultmoda.com
 127.0.0.1 adsys.sinovision.net
@@ -695,7 +694,6 @@
 127.0.0.1 service.ad.duomi.com
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 sdk.guard.mob.com
-127.0.0.1 click.admaster.com.cn
 127.0.0.1 adsdk.vivo.com.cn
 127.0.0.1 b-gi.getui.com
 127.0.0.1 b-gtc.getui.net
@@ -935,6 +933,7 @@
 127.0.0.1 www.admaster.com.cn
 127.0.0.1 adx.timewit.cn
 127.0.0.1 adm.funshion.com
+127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 pb.hd.sohu.com.cn
 127.0.0.1 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 dev.umeng.com
@@ -1036,6 +1035,7 @@
 127.0.0.1 ww264.smartadserver.com
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 easynews.adsame.com
+127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 g1max.mediav.com
 127.0.0.1 vm.aty.sohu.com
@@ -1181,7 +1181,6 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 datax.baidu.com
-127.0.0.1 adservice.google.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 click2.hd.sohu.com
@@ -1241,6 +1240,7 @@
 127.0.0.1 api-ads.tiantianqutao.com
 127.0.0.1 crs.baidu.com
 127.0.0.1 static.g.iqiyi.com
+127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 notifiter.youmi.net
 127.0.0.1 rt.funshion.net
 127.0.0.1 bj.imp.voiceads.cn
@@ -1799,7 +1799,6 @@
 127.0.0.1 online.cnzz.com
 127.0.0.1 www.flstudiochina.com
 127.0.0.1 buyu9980.com
-127.0.0.1 api1.tuisong.baidu.com
 127.0.0.1 afp.alicdn.com
 127.0.0.1 down.360safe.com
 127.0.0.1 r.popin.cc
@@ -2727,6 +2726,7 @@
 127.0.0.1 www.811jjj.com
 127.0.0.1 ns1.vkontakte.ru
 127.0.0.1 t1213.com
+127.0.0.1 adservice.google.com
 127.0.0.1 union.baidustatic.guannin.com
 127.0.0.1 sync.user-grey.com
 127.0.0.1 www.miss0303.com
@@ -2796,7 +2796,6 @@
 127.0.0.1 www.rrcai.com
 127.0.0.1 f9.mtqys.com
 127.0.0.1 jkstudy.cc
-127.0.0.1 api8.tuisong.baidu.com
 127.0.0.1 h1.kukuw.com
 127.0.0.1 antdmn.xyz
 127.0.0.1 buyu9914.com
@@ -3555,6 +3554,7 @@
 127.0.0.1 xpj16.net
 127.0.0.1 p1.tribution.mobi
 127.0.0.1 api5.tuisong.baidu.com
+127.0.0.1 cdn0.mobmore.com
 127.0.0.1 xia.coreldrawchina.com
 127.0.0.1 c.dfgyw.com
 127.0.0.1 getnewsupdate.info
@@ -3564,6 +3564,7 @@
 127.0.0.1 a.cnzz.com
 127.0.0.1 buyu9928.com
 127.0.0.1 toutoucao8.com
+127.0.0.1 cm.lianmeng.360.cn
 127.0.0.1 jxteerte.net
 127.0.0.1 ky.g66667777.com
 127.0.0.1 www.h99999999.com
@@ -3828,6 +3829,7 @@
 127.0.0.1 chat.youzu.com
 127.0.0.1 vdax.uuzu.com
 127.0.0.1 wpte.j8inn1zektoe.com
+127.0.0.1 click.admaster.com.cn
 127.0.0.1 www.rr7576.com
 127.0.0.1 accede.site
 127.0.0.1 ss7778.com
@@ -4074,7 +4076,6 @@
 127.0.0.1 toutoucao1.com
 127.0.0.1 urlqh.cn
 127.0.0.1 birdmedia.com
-127.0.0.1 api3.tuisong.baidu.com
 127.0.0.1 adgeo.163.com
 127.0.0.1 c33.statcounter.com
 127.0.0.1 ir.mail.163.com
@@ -4176,7 +4177,6 @@
 127.0.0.1 www.pj38330.bet
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 cdn.g.wan.douyu.com
-127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 buyu9981.com
 127.0.0.1 click.jasmin.com
 127.0.0.1 cloudservice27.kingsoft-office-service.com
