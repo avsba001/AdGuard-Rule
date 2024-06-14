@@ -1,4 +1,4 @@
-# Update time: 2024-06-13 20:18:42
+# Update time: 2024-06-14 20:18:26
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -199,7 +199,6 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
-||adservice.google.
 ||counter*.stat.ovh^
 ||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
@@ -320,7 +319,6 @@ analytics-*.aasaam.com
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
 ||adserver1.
-||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
@@ -376,7 +374,6 @@ analytics-*.aasaam.com
 ||underclick.
 ||batchlogging*-noneu.truecaller.com^
 ||imp-*.jampp.com^
-||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
@@ -396,12 +393,10 @@ analytics-*.aasaam.com
 ||1024wanzhai.
 ||api*.batmobil.net^
 ||under-click.
-||collector-*.px-client.net^
 ||log-*.epicdn.me^
 ||adcounter*.uptolike.ru^
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
-||tracker.twenga.
 ||cdn*.swaxis.com^
 ||adimg*.search.naver.net^
 ||log*.aliyuncs.com^
@@ -414,7 +409,6 @@ analytics-*.aasaam.com
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
-||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -474,16 +468,22 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||stats.zone-annuaire.
+||bc.geocities.
+||collector-*.px-client.net^
 ||stat.*.v-56.com^
-||geotargetly-api-*.com^
-||df.infra.sz.shopee.
 ||matt.mercadolibre.
 ||tccd.douglas.
-||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
-||sta.wawacity.
 ||sta.extreme-down.
+||mcdp-*.outbrain.com^
+||adservice.google.
+||tracker.twenga.
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
 ||df.infra.shopee.
 rgmechanicsgames.com*VPN.exe
