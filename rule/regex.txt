@@ -1,4 +1,4 @@
-# Update time: 2024-07-16 20:19:35
+# Update time: 2024-07-17 20:19:24
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -193,34 +193,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||bc.geocities.
-||matt.mercadolibre.
-||tccd.douglas.
-||stats*.credit-cooperatif.coop^
-||hn-ping*.hashnode.com^
-||sta.extreme-down.
-||mcdp-*.outbrain.com^
-||adservice.google.
-||servo-report.dvdfab.
-%2Fopen.aspx%3F
-||analytics-api.dvdfab.
-||geotargetly-api-*.com^
-||sta.zone-telechargement.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
-||faro-collector-prod-*.grafana.net^
-||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
-||ubt.tracking.shopee.
-||stats2.*.fdnames.com^
-||tracker.twenga.
-||aff*.kolektiva.net^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||sta.wawacity.
-||pixel.archive.
-%2Fevent.gif%3F
-||df.infra.shopee.
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -488,6 +460,34 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
+||bc.geocities.
+||matt.mercadolibre.
+||tccd.douglas.
+||stats*.credit-cooperatif.coop^
+||hn-ping*.hashnode.com^
+||sta.extreme-down.
+||mcdp-*.outbrain.com^
+||adservice.google.
+||servo-report.dvdfab.
+%2Fopen.aspx%3F
+||analytics-api.dvdfab.
+||geotargetly-api-*.com^
+||sta.zone-telechargement.
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
+||faro-collector-prod-*.grafana.net^
+||stat.*.v-56.com^
+||stats-*.p2pnow.ru^
+||ubt.tracking.shopee.
+||stats2.*.fdnames.com^
+||tracker.twenga.
+||aff*.kolektiva.net^
+||stats.zone-annuaire.
+||df.infra.sz.shopee.
+||sta.wawacity.
+||pixel.archive.
+%2Fevent.gif%3F
+||df.infra.shopee.
 rgmechanicsgames.com*VPN.exe
 ||widgets.*.webengage.com^
 ||ads*.dfiles.eu^
