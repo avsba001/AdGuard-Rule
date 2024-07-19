@@ -1,4 +1,4 @@
-# Update time: 2024-07-18 20:19:58
+# Update time: 2024-07-19 20:18:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,15 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||tupian888.*.bcebos.com^
@@ -184,15 +193,6 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -469,6 +469,7 @@ analytics-*.aasaam.com
 ||mcdp-*.outbrain.com^
 ||adservice.google.
 ||servo-report.dvdfab.
+%2Fopen.aspx%3F
 ||analytics-api.dvdfab.
 ||geotargetly-api-*.com^
 ||sta.zone-telechargement.
@@ -485,29 +486,5 @@ analytics-*.aasaam.com
 ||df.infra.sz.shopee.
 ||sta.wawacity.
 ||pixel.archive.
-||df.infra.shopee.
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-%2Fopen.aspx%3F
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||invenio_tracking_*.sgnapps.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
-||log*-applog-*.tiktokv.com^
-Banner468x60
-rgmechanicsgames.com*VPN.exe
-||widgets.*.webengage.com^
-||ads*.depositfiles.com^
-||ads*.depositfiles.org^
-directtrack.*.js
-||ads*-normal*.zijieapi.com^
-||fapnado.*.php|
-||itechpost.com*adbk
-@@||cdn-msp*.18comic.*^
-esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
-||cas.*.criteo.com^
-||acookie.*.gif?
-||cintent.streanplay.
 %2Fevent.gif%3F
+||df.infra.shopee.
