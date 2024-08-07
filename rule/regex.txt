@@ -1,4 +1,4 @@
-# Update time: 2024-08-06 20:19:35
+# Update time: 2024-08-07 20:19:56
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -477,31 +477,24 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||stats.zone-annuaire.
 ||stat.*.v-56.com^
-||geotargetly-api-*.com^
-||df.infra.sz.shopee.
 ||matt.mercadolibre.
 ||tccd.douglas.
-||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
-||sta.wawacity.
 ||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
 %2Fopen.aspx%3F
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||invenio_tracking_*.sgnapps.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
-||log*-applog-*.tiktokv.com^
-Banner468x60
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 rgmechanicsgames.com*VPN.exe
 ||widgets.*.webengage.com^
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 directtrack.*.js
@@ -509,8 +502,15 @@ directtrack.*.js
 ||fapnado.*.php|
 ||itechpost.com*adbk
 @@||cdn-msp*.18comic.*^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||invenio_tracking_*.sgnapps.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||ads*.dfiles.ru^
+||centent.streamp1ay.
+||142.91.159.
 ||cas.*.criteo.com^
 ||acookie.*.gif?
+||log*-applog-*.tiktokv.com^
 ||cintent.streanplay.
-%2Fevent.gif%3F
+Banner468x60
