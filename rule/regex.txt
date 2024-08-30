@@ -1,4 +1,4 @@
-# Update time: 2024-08-29 20:20:19
+# Update time: 2024-08-30 20:19:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -493,6 +493,7 @@ analytics-*.aasaam.com
 ||df.infra.shopee.
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
+||molpmh.xyz|
 %2Fopen.aspx%3F
 ||gamenguide.com*adbk
 ||util-*.simply-hentai.com^
