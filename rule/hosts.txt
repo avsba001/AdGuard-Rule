@@ -1,4 +1,4 @@
-# Update time: 2024-09-06 20:20:09
+# Update time: 2024-09-07 20:18:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -650,7 +650,6 @@
 127.0.0.1 ads.weilitoutiao.net
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 view.mediav.com
-127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 api.adnet.mob.com
 127.0.0.1 ddd.1sapp.com
 127.0.0.1 ad.bayescom.com
@@ -662,7 +661,6 @@
 127.0.0.1 topapi.cp12.wasu.tv
 127.0.0.1 sf.vserv.mobi
 127.0.0.1 appuu.cn
-127.0.0.1 ads.stickyadstv.com
 127.0.0.1 h-adashx.ut.ele.me
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 y76.ylems.club
@@ -1359,7 +1357,6 @@
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 googlesyndication.com
 127.0.0.1 s.snmi.cn
-127.0.0.1 c.cnzz.com
 127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 track.adwo.com
 127.0.0.1 test.ark.letv.com
@@ -2771,6 +2768,7 @@
 127.0.0.1 www.551144.com
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 www.sun0062.com
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 s44.cnzz.com
 127.0.0.1 mp8883.com
@@ -2794,6 +2792,7 @@
 127.0.0.1 tm.ad-srv.net
 127.0.0.1 s115.cnzz.com
 127.0.0.1 www.4937711.com
+127.0.0.1 ads.stickyadstv.com
 127.0.0.1 perfectgirls.es
 127.0.0.1 www.vns01444.com
 127.0.0.1 javbusxx.com
@@ -4155,6 +4154,7 @@
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
 127.0.0.1 4009997658.com
+127.0.0.1 c.cnzz.com
 127.0.0.1 www2s.j8inn1zektoe.com
 127.0.0.1 athena.wan.sogou.com
 127.0.0.1 cams.com
