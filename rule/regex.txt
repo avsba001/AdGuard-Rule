@@ -1,4 +1,4 @@
-# Update time: 2024-09-11 20:20:58
+# Update time: 2024-09-12 20:20:46
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,15 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||tupian888.*.bcebos.com^
@@ -70,15 +79,6 @@
 ||zbc6hy*.live^
 ||gtlpa*.com^
 ||at*.doubanio.com^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -478,41 +478,41 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||stats.zone-annuaire.
 ||stat.*.v-56.com^
-||geotargetly-api-*.com^
-||df.infra.sz.shopee.
 ||matt.mercadolibre.
 ||tccd.douglas.
-||sta.zone-telechargement.
 ||stats*.credit-cooperatif.coop^
-||sta.wawacity.
 ||sta.extreme-down.
-||analytics.ticketmaster.
-||df.infra.shopee.
-||ads*.dfiles.eu^
-@@||adobeid-*.services.adobe.com^
-||molpmh.xyz|
 %2Fopen.aspx%3F
-||gamenguide.com*adbk
-||util-*.simply-hentai.com^
-||invenio_tracking_*.sgnapps.com^
-||ads*.dfiles.ru^
-||centent.streamp1ay.
-||142.91.159.
-||log*-applog-*.tiktokv.com^
-Banner468x60
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 rgmechanicsgames.com*VPN.exe
 ||widgets.*.webengage.com^
+||ads*.dfiles.eu^
+@@||adobeid-*.services.adobe.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 directtrack.*.js
 ||ads*-normal*.zijieapi.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||molpmh.xyz|
 @@||cdn-msp*.18comic.*^
+||gamenguide.com*adbk
+||util-*.simply-hentai.com^
+||invenio_tracking_*.sgnapps.com^
 esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
+||ads*.dfiles.ru^
+||centent.streamp1ay.
+||142.91.159.
 ||cas.*.criteo.com^
 ||acookie.*.gif?
+||log*-applog-*.tiktokv.com^
 ||cintent.streanplay.
-%2Fevent.gif%3F
+Banner468x60
