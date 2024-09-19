@@ -1,4 +1,4 @@
-# Update time: 2024-09-18 20:20:56
+# Update time: 2024-09-19 20:21:15
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -201,7 +201,6 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
-||adservice.google.
 ||counter*.stat.ovh^
 ||host*.carl-ras.dk^
 ||ads.livetv*.me^
@@ -482,6 +481,7 @@ analytics-*.aasaam.com
 ||tccd.douglas.
 ||stats*.credit-cooperatif.coop^
 ||sta.extreme-down.
+||adservice.google.
 %2Fopen.aspx%3F
 ||stats.zone-annuaire.
 ||geotargetly-api-*.com^
