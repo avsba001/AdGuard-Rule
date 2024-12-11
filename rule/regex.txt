@@ -1,4 +1,4 @@
-# Update time: 2024-12-10 20:24:46
+# Update time: 2024-12-11 20:24:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,18 +47,8 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||tupian888.*.bcebos.com^
 ||zabdybod*.club^
 ||js.*2023*.live^
 ||yhsfsdv*.com^
@@ -156,21 +146,26 @@ advertisers.js|
 ||67.21.92.*.gif
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
+||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
+||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||ac*.pingguolv.com^
 ||107.167.22.*.gif
+||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
+||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
@@ -181,39 +176,20 @@ advertisers.js|
 ||js*.abolezi.com^
 ||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
+||qpb*.sohu.com^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||bc.geocities.
-||matt.mercadolibre.
-||tccd.douglas.
-||stats*.credit-cooperatif.coop^
-||hn-ping*.hashnode.com^
-||sta.extreme-down.
-||mcdp-*.outbrain.com^
-||adservice.google.
-||servo-report.dvdfab.
-%2Fopen.aspx%3F
-||analytics-api.dvdfab.
-||geotargetly-api-*.com^
-%2Frw%2Fbeacon_
-||sta.zone-telechargement.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
-||faro-collector-prod-*.grafana.net^
-||stat.*.v-56.com^
-||stats-*.p2pnow.ru^
-||ubt.tracking.shopee.
-||stats2.*.fdnames.com^
-||tracker.twenga.
-||aff*.kolektiva.net^
-||stats.zone-annuaire.
-||df.infra.sz.shopee.
-||sta.wawacity.
-||pixel.archive.
-%2Fevent.gif%3F
-||df.infra.shopee.
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -232,6 +208,7 @@ analytics-*.aasaam.com
 ||w*statistics.info^
 ||hw-sh-pcdn-*.biliapi.net^
 ||prebid-*.rubiconproject.com^
+||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||api-*.hismarttv.com^
@@ -320,6 +297,7 @@ analytics-*.aasaam.com
 ||v.newsportal*.ru^
 ||get-me-wow.
 ||mob*.novanewsapp.com^
+||ubt.tracking.shopee.
 ||ad-*.appacc.dbankedge.cn^
 ||cnt.tubeon.
 ||videoclik.
@@ -379,6 +357,7 @@ analytics-*.aasaam.com
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||rum*.a.trbcdn.net^
+||analytics-api.dvdfab.
 ||analytics-*-nfl.yinzcam.com^
 ||xlog*-*.tiktokv.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -412,6 +391,7 @@ analytics-*.aasaam.com
 ||tracking.*.miui.com^
 ||cnt.hd21.
 ||adv0*.msa.cdn.mediaset.net^
+||servo-report.dvdfab.
 ||trk*.vidible.tv^
 ||pop-under.
 ||gscounters.*.gigya.com^
@@ -442,6 +422,7 @@ analytics-*.aasaam.com
 ||t*.zcvh.net^
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
+||hn-ping*.hashnode.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -463,12 +444,14 @@ analytics-*.aasaam.com
 ||fp-*it*.fengkongcloud.com^
 ||popuptraf.
 ||host*.rvshare.com^
+||ulog*.kwaipros.com^
 ||events-*.op.hicloud.com^
 ||158.247.208.
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
+||pixel.archive.
 ||log-*.zadn.vn^
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
@@ -543,7 +526,6 @@ analytics-*.aasaam.com
 ||adm*.autoimg.cn^
 ||xn--xhq9mt12cf5v.*^
 ||grjs0*.com^
-||qpb*.sohu.com^
 ||ad-*.com^
 ||applovin*.*^
 ||hostingcloud.*^
@@ -553,7 +535,6 @@ analytics-*.aasaam.com
 ||supersonicads*.*^
 ||admob.*^
 ||sunnimiq*.cf^
-||d*.ruiwen.com^
 ||count*.pconline.com.cn^
 ||log*.molitv.cn^
 ||adsmogo*.*^
@@ -564,13 +545,10 @@ analytics-*.aasaam.com
 ||doubleclick*.xyz^
 ||waframedia*.*^
 ||adservice*.*^
-||ac*.786ip.com^
 @@||usageapi.*.oraclecloud.com^
 ||xn--wxtr9fwyxk9c.*^
-||d*.xinshipu.com^
 ||bs*.9669.cn^
 ||pingfore*.*^
-||dm*.yxlady.com^
 ||pussl*.com^
 ||openx*.*^
 ||admicro*.vcmedia.vn^
@@ -594,13 +572,35 @@ analytics-*.aasaam.com
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||adwords*.*^
+||bc.geocities.
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||stats-*.p2pnow.ru^
+||tccd.douglas.
+||stats*.credit-cooperatif.coop^
+||sta.extreme-down.
+||mcdp-*.outbrain.com^
+||stats2.*.fdnames.com^
+||adservice.google.
+||tracker.twenga.
+||aff*.kolektiva.net^
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+||sta.zone-telechargement.
+||sta.wawacity.
+||log-*.previewnetworks.com^
+||analytics.ticketmaster.
+||df.infra.shopee.
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||molpmh.xyz|
+%2Fopen.aspx%3F
 ||gamenguide.com*adbk
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||invenio_tracking_*.sgnapps.com^
+%2Frw%2Fbeacon_
 ||ads*.dfiles.ru^
 ||centent.streamp1ay.
 ||142.91.159.
@@ -619,4 +619,5 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||cas.*.criteo.com^
 ||acookie.*.gif?
 ||cintent.streanplay.
+%2Fevent.gif%3F
 @@||cdn-msp*.18comic*.*^
