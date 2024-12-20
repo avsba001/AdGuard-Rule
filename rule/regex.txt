@@ -1,4 +1,4 @@
-# Update time: 2024-12-19 20:23:17
+# Update time: 2024-12-20 20:21:36
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -487,17 +487,14 @@ analytics-*.aasaam.com
 ||stats2.*.fdnames.com^
 ||adservice.google.
 ||tracker.twenga.
-%2Fopen.aspx%3F
 ||aff*.kolektiva.net^
 ||stats.zone-annuaire.
 ||geotargetly-api-*.com^
 ||df.infra.sz.shopee.
-%2Frw%2Fbeacon_
 ||sta.zone-telechargement.
 ||sta.wawacity.
 ||log-*.previewnetworks.com^
 ||analytics.ticketmaster.
-%2Fevent.gif%3F
 ||df.infra.shopee.
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -598,10 +595,12 @@ analytics-*.aasaam.com
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||molpmh.xyz|
+%2Fopen.aspx%3F
 ||gamenguide.com*adbk
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||invenio_tracking_*.sgnapps.com^
+%2Frw%2Fbeacon_
 ||ads*.dfiles.ru^
 ||centent.streamp1ay.
 ||142.91.159.
@@ -620,4 +619,5 @@ esputnik.com%2Frepository%2Fapplications%2Fcommons%2Fhidden.png
 ||cas.*.criteo.com^
 ||acookie.*.gif?
 ||cintent.streanplay.
+%2Fevent.gif%3F
 @@||cdn-msp*.18comic*.*^
