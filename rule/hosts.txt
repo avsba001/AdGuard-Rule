@@ -1,4 +1,4 @@
-# Update time: 2025-01-22 20:21:58
+# Update time: 2025-01-23 20:22:29
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -105,7 +105,6 @@
 127.0.0.1 config.mobisage.cn
 127.0.0.1 adshmmsg.qq.com
 127.0.0.1 www.adview.cn
-127.0.0.1 q14.cnzz.com
 127.0.0.1 zs8.cnzz.com
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 amdcopen.m.taobao.com
@@ -222,14 +221,12 @@
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 lb.usemaxserver.de
 127.0.0.1 zs3.cnzz.com
-127.0.0.1 b.scorecardresearch.com
 127.0.0.1 otf.msn.com
 127.0.0.1 hhbekxxw5d9e.pflexads.com
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 bid.adview.cn
 127.0.0.1 localhost
 127.0.0.1 paopao2.qiyipic.com
-127.0.0.1 dup.baidustatic.com
 127.0.0.1 v2.log.mgtv.com
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 a.applovin.com
@@ -283,7 +280,6 @@
 127.0.0.1 tracking.klickthru.com
 127.0.0.1 adtrack.ucweb.com
 127.0.0.1 asp.adsame.com
-127.0.0.1 cbjs.baidu.com
 127.0.0.1 ads2.msn.com
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 afs.googlesyndication.com
@@ -342,7 +338,6 @@
 127.0.0.1 domob.cn
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 api1.888zy.cn
-127.0.0.1 cb.baidu.com
 127.0.0.1 zs4.cnzz.com
 127.0.0.1 abtest.alibaba.com
 127.0.0.1 ads.waps.cn
@@ -826,7 +821,6 @@
 127.0.0.1 8b6dfa.v.admaster.com.cn
 127.0.0.1 ads.privacy.qq.com
 127.0.0.1 t4.a.market.xiaomi.com
-127.0.0.1 pcookie.cnzz.com
 127.0.0.1 mcfg.sandai.net
 127.0.0.1 norma-external-collect.meizu.com
 127.0.0.1 ap.cpatrk.net
@@ -1045,7 +1039,6 @@
 127.0.0.1 a.tn.token-ad.com
 127.0.0.1 msg.iqiyi.com
 127.0.0.1 ort.stsdk.vivo.com.cn
-127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 lc.getui.com
@@ -1177,7 +1170,6 @@
 127.0.0.1 mobileads.msn.com
 127.0.0.1 da.mmarket.com
 127.0.0.1 datax.baidu.com
-127.0.0.1 adservice.google.com
 127.0.0.1 secure.mediav.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 click2.hd.sohu.com
@@ -1250,7 +1242,6 @@
 127.0.0.1 s11.cnzz.com
 127.0.0.1 cfg-cdn.aiclk.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 video.market.xiaomi.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 edge.reporo.net
@@ -1259,7 +1250,6 @@
 127.0.0.1 g1.ads.oppomobile.com
 127.0.0.1 adstextview.qq.com
 127.0.0.1 adashbc.ut.taobao.com
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 mobgi.com
 127.0.0.1 px.ucweb.com
 127.0.0.1 zs7.cnzz.com
@@ -1290,7 +1280,6 @@
 127.0.0.1 req3.appads.com
 127.0.0.1 f.gm.mob.com
 127.0.0.1 plbslog.umeng.com
-127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 static.mediav.com
 127.0.0.1 z8.cnzz.com
@@ -1337,7 +1326,6 @@
 127.0.0.1 adshare.toutiao.com
 127.0.0.1 p.medialytics.com
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 app-measurement.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 configv2.unityads.unity3d.com
@@ -1510,13 +1498,10 @@
 127.0.0.1 analytics3.starschina.com
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 adashxgc.ut.taobao.com
-127.0.0.1 cm.baidu.com
 127.0.0.1 static-ssl.mediav.com
-127.0.0.1 cm.pos.baidu.com
 127.0.0.1 api.myadsget.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 m.aty.sohu.com
-127.0.0.1 cpro.baidustatic.com
 127.0.0.1 nsclickvideo.baidu.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 dpush-api.domob.cn
@@ -1856,6 +1841,7 @@
 127.0.0.1 www.onclicksuper.com
 127.0.0.1 tg.pxhuiben.com
 127.0.0.1 www.7147999.com
+127.0.0.1 cbjs.baidu.com
 127.0.0.1 anastasiadate.com
 127.0.0.1 www.hg417.bet
 127.0.0.1 www55.superembed.com
@@ -2385,6 +2371,7 @@
 127.0.0.1 www.ili100.cn
 127.0.0.1 addthis.com
 127.0.0.1 count40.51yes.com
+127.0.0.1 pcookie.cnzz.com
 127.0.0.1 stats.guess.tf.360.cn
 127.0.0.1 www.hg89078.com
 127.0.0.1 prwidgets.com
@@ -2721,6 +2708,7 @@
 127.0.0.1 www.811jjj.com
 127.0.0.1 ns1.vkontakte.ru
 127.0.0.1 t1213.com
+127.0.0.1 adservice.google.com
 127.0.0.1 union.baidustatic.guannin.com
 127.0.0.1 sync.user-grey.com
 127.0.0.1 www.miss0303.com
@@ -2823,6 +2811,7 @@
 127.0.0.1 c16cp358.com
 127.0.0.1 s51.cnzz.com
 127.0.0.1 www.xh83333.com
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 main.exoclick.com
 127.0.0.1 static.flv.uuzuonline.com
 127.0.0.1 www.123ad.com
@@ -3097,6 +3086,7 @@
 127.0.0.1 www.21365k.com
 127.0.0.1 www.4242jj.com
 127.0.0.1 rec.g.163.com
+127.0.0.1 cm.baidu.com
 127.0.0.1 freeteen.com
 127.0.0.1 new.atas.io
 127.0.0.1 buyu0000.com
@@ -3260,6 +3250,7 @@
 127.0.0.1 vip.xiehuizhi.com
 127.0.0.1 paypalobjects.com
 127.0.0.1 www.377yyy.com
+127.0.0.1 q14.cnzz.com
 127.0.0.1 qihoo.cn
 127.0.0.1 sale.aliexpress.com
 127.0.0.1 xpjylc9977.com
@@ -3357,10 +3348,12 @@
 127.0.0.1 www.tt4647.com
 127.0.0.1 zxd.x9393.com
 127.0.0.1 count45.51yes.com
+127.0.0.1 b.scorecardresearch.com
 127.0.0.1 buyu9951.com
 127.0.0.1 members.amaland.com
 127.0.0.1 use.teutorigos-phi.com
 127.0.0.1 js.start1999.com
+127.0.0.1 dup.baidustatic.com
 127.0.0.1 www.adultfriendfinder.com
 127.0.0.1 www.adsrvmedia.adk2x.com
 127.0.0.1 ads.scorecardresearch.com
@@ -3459,6 +3452,7 @@
 127.0.0.1 quanjing.cnzz.com
 127.0.0.1 adk2x.com
 127.0.0.1 wvw.a81444.com
+127.0.0.1 cb.baidu.com
 127.0.0.1 c6.statcounter.com
 127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 rules.quantcount.com
@@ -4183,6 +4177,7 @@
 127.0.0.1 www.400538.com
 127.0.0.1 v12.cnzz.com
 127.0.0.1 www.emoneyspace.com
+127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 k0398.com
 127.0.0.1 baigm.com
 127.0.0.1 beta.adriver.ru
@@ -4397,6 +4392,7 @@
 127.0.0.1 hqs9.cnzz.com
 127.0.0.1 www.kuaso.com
 127.0.0.1 cache.cnzz.com
+127.0.0.1 img-cdn-spot.ymcdn.cn
 127.0.0.1 www.2883uu.com
 127.0.0.1 myfrenchcountryhome.j8inn1zektoe.com
 127.0.0.1 www.vns4395.com
@@ -4428,6 +4424,7 @@
 127.0.0.1 banners.adultfriendfinder.com
 127.0.0.1 track.absoluteclickscom.com
 127.0.0.1 apipool.youzu.com
+127.0.0.1 i.l.inmobicdn.net
 127.0.0.1 buyu903.com
 127.0.0.1 adsco.re
 127.0.0.1 buyu9976.com
@@ -4476,6 +4473,7 @@
 127.0.0.1 c.statstat888.com
 127.0.0.1 wo1818.cn
 127.0.0.1 ldpgl.code.mytanwan.com
+127.0.0.1 app-measurement.com
 127.0.0.1 v8.cnzz.com
 127.0.0.1 hzs17.cnzz.com
 127.0.0.1 cdn.krxd.net
@@ -4636,8 +4634,10 @@
 127.0.0.1 ads.adxpansion.com
 127.0.0.1 v3.fstats.xyz
 127.0.0.1 croissed.info
+127.0.0.1 cm.pos.baidu.com
 127.0.0.1 www.66fu2d.com
 127.0.0.1 www.russianwomansite.com
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 qq88bet.net
 127.0.0.1 www.haixiutv.com
 127.0.0.1 spdtrk.com
