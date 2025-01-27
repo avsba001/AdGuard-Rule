@@ -1,4 +1,4 @@
-# Update time: 2025-01-26 20:19:03
+# Update time: 2025-01-27 20:22:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -406,7 +406,6 @@
 127.0.0.1 rs-staticart.ybcdn.net
 127.0.0.1 ad.netowl.jp
 127.0.0.1 p.appjiagu.com
-127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 adm.icast.cn
 127.0.0.1 dsa-mfp.fengshows.cn
@@ -1340,7 +1339,6 @@
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 googlesyndication.com
 127.0.0.1 s.snmi.cn
-127.0.0.1 c.cnzz.com
 127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 track.adwo.com
 127.0.0.1 test.ark.letv.com
@@ -1502,7 +1500,6 @@
 127.0.0.1 adserver.adtech.de
 127.0.0.1 adfuture.cn
 127.0.0.1 corebug.adsame.com
-127.0.0.1 adscdn.baidu.com
 127.0.0.1 paopao.iqiyi.com
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 hm.baidu.com
@@ -2908,6 +2905,7 @@
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
 127.0.0.1 4009997658.com
+127.0.0.1 c.cnzz.com
 127.0.0.1 www2s.j8inn1zektoe.com
 127.0.0.1 cams.com
 127.0.0.1 ad.aspm.jp
@@ -3073,6 +3071,7 @@
 127.0.0.1 serve.popads.net
 127.0.0.1 g2.symcb.com
 127.0.0.1 www.30006z.com
+127.0.0.1 adscdn.baidu.com
 127.0.0.1 momode.net
 127.0.0.1 s114.cnzz.com
 127.0.0.1 ie8eamus.com
@@ -3548,6 +3547,7 @@
 127.0.0.1 buyu9912.com
 127.0.0.1 buyu9998.com
 127.0.0.1 sync.adsniper.ru
+127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 ads.shorte.st
 127.0.0.1 appcdn.wapx.com
 127.0.0.1 ns2.cnzz.com
