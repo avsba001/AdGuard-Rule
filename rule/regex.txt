@@ -1,4 +1,4 @@
-# Update time: 2025-02-12 20:22:14
+# Update time: 2025-02-13 20:22:23
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -58,7 +58,6 @@
 |lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||tupian888.*.bcebos.com^
 ||zabdybod*.club^
 ||js.*2023*.live^
 ||yhsfsdv*.com^
@@ -171,6 +170,7 @@ advertisers.js|
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
+||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
@@ -195,6 +195,7 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||rgfftupf.
+||adservice.google.
 ||counter*.stat.ovh^
 |load.sst.
 ||mssdk*.tiktokw.us^
@@ -220,6 +221,7 @@ analytics-*.aasaam.com
 ||cnt.vivatube.
 ||rotabanner.
 ||log*-misc-lf.amemv.com^
+||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
 ||clk.rtpdn*.com^
 ||flipflapflo.
@@ -307,6 +309,7 @@ analytics-*.aasaam.com
 ||videoclik.
 ||poshalim.
 ||events*.cre.ma^
+||aff*.kolektiva.net^
 ||adx-*.dbankedge.cn^
 ||pixel-*.rubiconproject.com^
 ||mcs-*.lemon8-app.com^
@@ -333,6 +336,7 @@ analytics-*.aasaam.com
 ||collect-elb-*.amazonaws.com^
 ||collector-*.tvsquared.com^
 ||adserver1.
+||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||backstory.ebay.
 ||adx-*.dbankcloud.
@@ -343,6 +347,7 @@ analytics-*.aasaam.com
 ||mediacontext.
 ||videoclick.
 ||batchlogging*-eu.truecaller.com^
+||stats-*.p2pnow.ru^
 ||broredir*s.site^
 ||admulti.
 ||eum*.instana.io^
@@ -395,6 +400,7 @@ analytics-*.aasaam.com
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
 ||imp-*.jampp.com^
+||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||mobileanalytics.*.amazonaws.com^
 ||tracking.*.miui.com^
@@ -421,6 +427,7 @@ analytics-*.aasaam.com
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||tnc*.zijieapi.com^
+||tracker.twenga.
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
 ||adimg*.search.naver.net^
@@ -437,6 +444,7 @@ analytics-*.aasaam.com
 ||collector.hamsterix.
 ||log*.vietnamplus.vn^
 ||hn-ping*.hashnode.com^
+||mcdp-*.outbrain.com^
 ||sensorsdata*.read.duokan.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||i-*.ci360.sas.com^
@@ -502,28 +510,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
-||bc.geocities.
-||stat.*.v-56.com^
-||matt.mercadolibre.
-||stats-*.p2pnow.ru^
-||stats*.credit-cooperatif.coop^
-||sta.extreme-down.
-||mcdp-*.outbrain.com^
-||stats2.*.fdnames.com^
-||adservice.google.
-||tracker.twenga.
-%2Fopen.aspx%3F
-||aff*.kolektiva.net^
-||stats.zone-annuaire.
-||geotargetly-api-*.com^
-||df.infra.sz.shopee.
-%2Frw%2Fbeacon_
-||sta.zone-telechargement.
-||sta.wawacity.
-||log-*.previewnetworks.com^
-||analytics.ticketmaster.
-%2Fevent.gif%3F
-||df.infra.shopee.
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -614,6 +600,20 @@ analytics-*.aasaam.com
 ||analyzer*.fc2.com^
 ||lianmeng*.*^
 ||adwords*.*^
+||stat.*.v-56.com^
+||matt.mercadolibre.
+||stats*.credit-cooperatif.coop^
+||sta.extreme-down.
+%2Fopen.aspx%3F
+||stats.zone-annuaire.
+||geotargetly-api-*.com^
+||df.infra.sz.shopee.
+%2Frw%2Fbeacon_
+||sta.zone-telechargement.
+||sta.wawacity.
+||analytics.ticketmaster.
+%2Fevent.gif%3F
+||df.infra.shopee.
 ||ads*.dfiles.eu^
 @@||adobeid-*.services.adobe.com^
 ||molpmh.xyz|
