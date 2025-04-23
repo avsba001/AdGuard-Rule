@@ -1,4 +1,4 @@
-# Update time: 2025-04-22 20:24:45
+# Update time: 2025-04-23 20:25:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -100,6 +100,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -237,6 +238,7 @@
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 a.applovin.com
 127.0.0.1 tcbox.baidu.com
+127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
 127.0.0.1 ad.greedland.net
@@ -647,6 +649,7 @@
 127.0.0.1 ads.weilitoutiao.net
 127.0.0.1 ssp.tadseeker.com
 127.0.0.1 view.mediav.com
+127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 api.adnet.mob.com
 127.0.0.1 ddd.1sapp.com
 127.0.0.1 ad.bayescom.com
@@ -811,6 +814,7 @@
 127.0.0.1 api.analytics.omgpop.com
 127.0.0.1 fclog.baidu.com
 127.0.0.1 ggx02.miguvideo.com
+127.0.0.1 adserver.juicyads.com
 127.0.0.1 api.doumob.com
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 track.celtra.com
@@ -1331,6 +1335,7 @@
 127.0.0.1 d8.sina.com.cn
 127.0.0.1 v1-play.log.mgtv.com
 127.0.0.1 httpkafka.unityads.unity3d.com
+127.0.0.1 adsco.re
 127.0.0.1 auction-load.unityads.unity3d.com
 127.0.0.1 ott-v0-al.data.mgtv.com
 127.0.0.1 a3.img.static.youmi.net
@@ -1798,7 +1803,6 @@
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 sync.adsrvmedia.adk2x.com
 127.0.0.1 watchmygirlfriend.gfpornmovies.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 ads.exdynsrv.com
 127.0.0.1 cdn.adc.eamobile.com
 127.0.0.1 inst.360safe.com
@@ -2023,7 +2027,6 @@
 127.0.0.1 get.sessions.exchange
 127.0.0.1 vip.youzu.com
 127.0.0.1 www.379707.com
-127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 www.maxonclick.com
 127.0.0.1 s130.cnzz.com
 127.0.0.1 baiduyubaidu.com
@@ -2763,7 +2766,6 @@
 127.0.0.1 www.551144.com
 127.0.0.1 pubs2-asia.creativecdn.com
 127.0.0.1 www.sun0062.com
-127.0.0.1 adx-static.ksosoft.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 s44.cnzz.com
 127.0.0.1 mp8883.com
@@ -3106,7 +3108,6 @@
 127.0.0.1 i360mall.com.cn
 127.0.0.1 sha150.com
 127.0.0.1 wei.8586635.com
-127.0.0.1 adserver.juicyads.com
 127.0.0.1 twilightdata.com
 127.0.0.1 us.adform.net
 127.0.0.1 mz30.cn
@@ -4102,7 +4103,6 @@
 127.0.0.1 www.538porn.com
 127.0.0.1 s100.cnzz.com
 127.0.0.1 gg333js.com
-127.0.0.1 adsco.re
 127.0.0.1 buyu9976.com
 127.0.0.1 click.alibaba.com
 127.0.0.1 www.wangketuan.com
