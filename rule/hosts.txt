@@ -1,4 +1,4 @@
-# Update time: 2025-05-06 20:27:34
+# Update time: 2025-05-07 20:27:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -406,7 +406,6 @@
 127.0.0.1 rs-staticart.ybcdn.net
 127.0.0.1 ad.netowl.jp
 127.0.0.1 p.appjiagu.com
-127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 oc.umeng.com
 127.0.0.1 adm.icast.cn
 127.0.0.1 dsa-mfp.fengshows.cn
@@ -637,7 +636,6 @@
 127.0.0.1 a.qchannel03.cn
 127.0.0.1 abtest-ch.snssdk.com
 127.0.0.1 me.xdrig.com
-127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 oeeee.adsame.com
 127.0.0.1 www.ad5lm.net
 127.0.0.1 paopao-monitor.iqiyi.com
@@ -678,7 +676,6 @@
 127.0.0.1 dm.pstatp.com
 127.0.0.1 api.aiclk.com
 127.0.0.1 golds.lp.mydas.mobi
-127.0.0.1 als.baidu.com
 127.0.0.1 cdn.nearbyad.com
 127.0.0.1 ad.hiiir.com
 127.0.0.1 botuu.adsame.com
@@ -945,7 +942,6 @@
 127.0.0.1 log.kajicam.com
 127.0.0.1 s.appjiagu.com
 127.0.0.1 bu2.duba.com
-127.0.0.1 afd.baidu.com
 127.0.0.1 www.admaster.com.cn
 127.0.0.1 adx.timewit.cn
 127.0.0.1 adm.funshion.com
@@ -982,7 +978,6 @@
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 ad.api.youshiad.cn
 127.0.0.1 ta.qq.com
-127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 agn.aty.sohu.com
 127.0.0.1 cdn.appnext.com
 127.0.0.1 ad2.yam.com
@@ -1053,6 +1048,7 @@
 127.0.0.1 ww264.smartadserver.com
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 easynews.adsame.com
+127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 tracking.v.tf.360.cn
 127.0.0.1 g1max.mediav.com
 127.0.0.1 vm.aty.sohu.com
@@ -1502,7 +1498,6 @@
 127.0.0.1 adserver.adtech.de
 127.0.0.1 adfuture.cn
 127.0.0.1 corebug.adsame.com
-127.0.0.1 adscdn.baidu.com
 127.0.0.1 paopao.iqiyi.com
 127.0.0.1 t.gdt.qq.com
 127.0.0.1 hm.baidu.com
@@ -2208,6 +2203,7 @@
 127.0.0.1 d8885.com
 127.0.0.1 okaymobi.com
 127.0.0.1 api6.dating.com
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 v14.cnzz.com
 127.0.0.1 s44.cnzz.com
 127.0.0.1 mp8883.com
@@ -3073,6 +3069,7 @@
 127.0.0.1 serve.popads.net
 127.0.0.1 g2.symcb.com
 127.0.0.1 www.30006z.com
+127.0.0.1 adscdn.baidu.com
 127.0.0.1 momode.net
 127.0.0.1 s114.cnzz.com
 127.0.0.1 ie8eamus.com
@@ -3548,6 +3545,7 @@
 127.0.0.1 buyu9912.com
 127.0.0.1 buyu9998.com
 127.0.0.1 sync.adsniper.ru
+127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 ads.shorte.st
 127.0.0.1 appcdn.wapx.com
 127.0.0.1 ns2.cnzz.com
@@ -3795,6 +3793,7 @@
 127.0.0.1 www.95599.cn
 127.0.0.1 www.ab094.com
 127.0.0.1 formats.yieldmo.com
+127.0.0.1 als.baidu.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 www.2230666.com
 127.0.0.1 server.mz30.cn
@@ -4078,6 +4077,7 @@
 127.0.0.1 c24.statcounter.com
 127.0.0.1 mysterium.j8inn1zektoe.com
 127.0.0.1 ay227.com
+127.0.0.1 afd.baidu.com
 127.0.0.1 vd.7vid.net
 127.0.0.1 www.4630001.com
 127.0.0.1 toutoucao1.com
@@ -4184,7 +4184,6 @@
 127.0.0.1 www.pj38330.bet
 127.0.0.1 msoftdl.360.cn
 127.0.0.1 cdn.g.wan.douyu.com
-127.0.0.1 api.tuisong.baidu.com
 127.0.0.1 buyu9981.com
 127.0.0.1 click.jasmin.com
 127.0.0.1 cloudservice27.kingsoft-office-service.com
