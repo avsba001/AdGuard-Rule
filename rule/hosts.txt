@@ -1,4 +1,4 @@
-# Update time: 2025-08-15 20:26:48
+# Update time: 2025-08-16 20:25:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -116,6 +116,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -1148,6 +1149,7 @@
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 mmg.aty.sohu.com
 127.0.0.1 n.mark.letv.com
+127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 btrace.play.aiseet.atianqi.com
 127.0.0.1 otheve.beacon.qq.com
@@ -1819,7 +1821,6 @@
 127.0.0.1 cdn.11h5.com
 127.0.0.1 c.d3iz9md.com
 127.0.0.1 hg89038.com
-127.0.0.1 a.baidu.com
 127.0.0.1 www.xjyxgy.com
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
@@ -3758,7 +3759,6 @@
 127.0.0.1 p3.tribution.mobi
 127.0.0.1 mob22.lymiao89.com
 127.0.0.1 www.895057.com
-127.0.0.1 api.so.lianmeng.360.cn
 127.0.0.1 tools.bongacams.com
 127.0.0.1 ad7.contentabc.com
 127.0.0.1 s113.cnzz.com
