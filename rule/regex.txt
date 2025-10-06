@@ -1,4 +1,4 @@
-# Update time: 2025-10-05 20:22:27
+# Update time: 2025-10-06 20:26:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -192,6 +192,7 @@ advertisers.js|
 ||stw.extreme-down.
 ||collector-*.luigisbox.com^
 ||matt.mercadolibre.
+||tccd.douglas.
 ||stats*.credit-cooperatif.coop^
 ||ub.galaxus.
 ||hn-ping*.hashnode.com^
@@ -363,7 +364,6 @@ analytics-*.aasaam.com
 ||ad*.wisenut.co.kr^
 ||pixel*.adswizz.com
 ||ali-bj-pcdn-*.biliapi.net^
-||tccd.douglas.
 ||customerevents.us-east-*.internal.dradis.netflix.com^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
