@@ -1,4 +1,4 @@
-# Update time: 2025-10-20 20:28:07
+# Update time: 2025-10-21 20:27:33
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -867,7 +867,6 @@
 127.0.0.1 vali.cp31.ott.cibntv.net.302.myalicdn.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 ads.admarvel.com
-127.0.0.1 ads-a.juicyads.com
 127.0.0.1 api.verify.mob.com
 127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 adver.qq.com
@@ -3211,6 +3210,7 @@
 127.0.0.1 www.taobaobo5.com
 127.0.0.1 propellerad.adk2x.com
 127.0.0.1 juren0.com
+127.0.0.1 ads-a.juicyads.com
 127.0.0.1 rdldtrk.com
 127.0.0.1 www.jj9293.com
 127.0.0.1 api7.tuisong.baidu.com
