@@ -1,4 +1,4 @@
-# Update time: 2025-11-15 20:23:40
+# Update time: 2025-11-16 20:23:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -100,6 +100,7 @@
 127.0.0.1 push.pgl.qq.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ad.dev.360.cn
 127.0.0.1 sdu.adwo.com
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 config.mobisage.cn
@@ -743,6 +744,7 @@
 127.0.0.1 ads.voiceads.cn
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 miniapp.qiluyidian.mobi
+127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 adui.tg.meitu.com
 127.0.0.1 acs.56.com
 127.0.0.1 engine.liandaomobi.com
@@ -1806,7 +1808,6 @@
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 sync.adsrvmedia.adk2x.com
 127.0.0.1 watchmygirlfriend.gfpornmovies.com
-127.0.0.1 ad.dev.360.cn
 127.0.0.1 ads.exdynsrv.com
 127.0.0.1 cdn.adc.eamobile.com
 127.0.0.1 inst.360safe.com
@@ -2979,7 +2980,6 @@
 127.0.0.1 j.neemzksw.com
 127.0.0.1 click.tanx.com
 127.0.0.1 w12.j8inn1zektoe.com
-127.0.0.1 ad.gamebox.360.cn
 127.0.0.1 www.vns1.net
 127.0.0.1 v4.cnzz.com
 127.0.0.1 xmysmy.cn
