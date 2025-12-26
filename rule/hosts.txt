@@ -1,4 +1,4 @@
-# Update time: 2025-12-25 20:28:29
+# Update time: 2025-12-26 20:28:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1348,6 +1348,7 @@
 127.0.0.1 d2.sina.com.cn
 127.0.0.1 googlesyndication.com
 127.0.0.1 s.snmi.cn
+127.0.0.1 c.cnzz.com
 127.0.0.1 mdn2.phluantmobile.net
 127.0.0.1 track.adwo.com
 127.0.0.1 test.ark.letv.com
@@ -4152,7 +4153,6 @@
 127.0.0.1 mo.res.wpscdn.cn
 127.0.0.1 poweredby.jads.co
 127.0.0.1 4009997658.com
-127.0.0.1 c.cnzz.com
 127.0.0.1 www2s.j8inn1zektoe.com
 127.0.0.1 athena.wan.sogou.com
 127.0.0.1 cams.com
