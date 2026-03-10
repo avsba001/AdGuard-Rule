@@ -1,4 +1,4 @@
-# Update time: 2026-03-09 20:43:17
+# Update time: 2026-03-10 20:42:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -315,6 +315,7 @@ analytics-*.aasaam.com
 ||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
+||bapi-*.moengage.com^
 ||goodadvert.
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
