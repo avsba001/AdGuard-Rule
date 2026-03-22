@@ -1,4 +1,4 @@
-# Update time: 2026-03-21 20:33:03
+# Update time: 2026-03-22 20:34:41
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -237,6 +237,7 @@
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 a.applovin.com
 127.0.0.1 tcbox.baidu.com
+127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
 127.0.0.1 ad.greedland.net
@@ -2021,7 +2022,6 @@
 127.0.0.1 get.sessions.exchange
 127.0.0.1 vip.youzu.com
 127.0.0.1 www.379707.com
-127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 www.maxonclick.com
 127.0.0.1 s130.cnzz.com
 127.0.0.1 baiduyubaidu.com
