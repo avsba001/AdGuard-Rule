@@ -1,4 +1,4 @@
-# Update time: 2026-03-30 21:02:08
+# Update time: 2026-03-31 21:00:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,18 +47,8 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
-||tupian888.*.bcebos.com^
 ||zabdybod*.club^
 ||js.*2023*.live^
 ||yhsfsdv*.com^
@@ -79,6 +69,15 @@
 ||zbc6hy*.live^
 ||gtlpa*.com^
 ||at*.doubanio.com^
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||adx.
 ||adx-
 ||adsfs.
@@ -157,21 +156,26 @@ advertisers.js|
 ||uc*.atobo.com^
 ||res*.pinpai8.cn^
 ||impservice*.youdao.com^
+||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||a*.chajiaotong.com^
 ||bdlm*.hc360.com^
+||ac*.786ip.com^
 ||ya*.dwstatic.com^
 ||ad*.on.cc^
+||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
 ||107.167.22.*.gif
 ||tw-726620180914.*.run.app^
+||dm*.yxlady.com^
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
+||tupian888.*.bcebos.com^
 ||same*.stockstar.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
@@ -183,6 +187,7 @@ advertisers.js|
 ||sam*.baby-kingdom.com^
 ||107.167.16.*.gif
 ||zbb.bbb.*.pics^
+||qpb*.sohu.com^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
@@ -224,26 +229,22 @@ advertisers.js|
 ||df.infra.shopee.
 ||da.hornbach.*^
 ||admob.*^
-||d*.ruiwen.com^
 ||xscp0*xq.com^
 ||adsmogo*.*^
 ||adsystem*.*^
 ||analysis*.*^
 ||ssc.southpark*^
 ||adservice*.*^
-||ac*.786ip.com^
 ||ad-*.net^
 ||log.*.hunantv.com^
 ||xdyn0*jy.com^
 ||admaster*.*^
 ||xn--wxtr9fwyxk9c.*^
-||d*.xinshipu.com^
 ||webads.*^
 ||admarvel*.*^
 ||omniture*.*^
 ||vente-unique.*^
 ||assoc-amazon.*^
-||dm*.yxlady.com^
 ||omgmta*.*^
 ||tuiguang.*^
 ||tr.*.espmp-*fr.net^
@@ -265,7 +266,6 @@ advertisers.js|
 ||engage.3m*^
 ||adm*.autoimg.cn^
 ||xn--xhq9mt12cf5v.*^
-||qpb*.sohu.com^
 ||ad-*.com^
 ||ads*-adnow.com^
 ||adwords*.*^
