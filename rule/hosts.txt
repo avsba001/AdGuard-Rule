@@ -1,4 +1,4 @@
-# Update time: 2026-05-01 21:03:11
+# Update time: 2026-05-02 20:53:31
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -116,6 +116,7 @@
 127.0.0.1 req.appads.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 a.baidu.com
 127.0.0.1 au.w.inmobi.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 ad.leadboltapps.net
@@ -236,7 +237,6 @@
 127.0.0.1 d3oltyb66oj2v8.cloudfront.net
 127.0.0.1 a.applovin.com
 127.0.0.1 tcbox.baidu.com
-127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 m.adsymptotic.com
 127.0.0.1 iadmusicmatvideo.music.126.net
 127.0.0.1 ad.greedland.net
@@ -1819,7 +1819,6 @@
 127.0.0.1 cdn.11h5.com
 127.0.0.1 c.d3iz9md.com
 127.0.0.1 hg89038.com
-127.0.0.1 a.baidu.com
 127.0.0.1 www.xjyxgy.com
 127.0.0.1 shop.spyoff.com
 127.0.0.1 static.uuzu.com
@@ -2022,6 +2021,7 @@
 127.0.0.1 get.sessions.exchange
 127.0.0.1 vip.youzu.com
 127.0.0.1 www.379707.com
+127.0.0.1 alicdnv2.sitemonitor.cn.miaozhen.com
 127.0.0.1 www.maxonclick.com
 127.0.0.1 s130.cnzz.com
 127.0.0.1 baiduyubaidu.com
