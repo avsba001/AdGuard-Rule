@@ -1,4 +1,4 @@
-# Update time: 2026-05-20 22:43:41
+# Update time: 2026-05-21 22:48:04
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -671,9 +671,6 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||v*.sitecounter.site^
 ||touch.yesim.
-||increase*rev.static-cloudflare.workers.dev^
-||increase-rev*.static-cloudflare.workers.dev^
-||inccrev*.static-cloudflare.workers.dev^
 ||ads*.dfiles.eu^
 digital-eliteboard.com%2Fb%2Fimage.gif%3Fp%3D
 notifications.googleapis.com%2Femail%2Ft%2F*%2Fa.gif
@@ -683,9 +680,7 @@ r.rakuten.co.jp%2F*.gif%3Fmpe%3D
 ||hitcrypt.
 notifications.google.com%2Fg%2Fimg%2F*.gif
 ||gamenguide.com*adbk
-||increv*.static-cloudflare.workers.dev^
 ||chat*-ce.chatdealer.jp^
-||inc*-rev.static-cloudflare.workers.dev^
 ||invenio_tracking_*.sgnapps.com^
 ||ads*.dfiles.ru^
 ||142.91.159.
@@ -695,7 +690,6 @@ Banner468x60
 click.official.infomaniak.com%2Fo%2F
 google.com%2Fappserve%2Fmkt%2Fproof%2Fimg%2F*.gif
 google-analytics.com%2Fcollect
-||increase*-rev.static-cloudflare.workers.dev^
 rgmechanicsgames.com*VPN.exe
 ||widgets.*.webengage.com^
 ||23.109.82.
