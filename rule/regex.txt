@@ -1,4 +1,4 @@
-# Update time: 2026-06-09 22:32:12
+# Update time: 2026-06-10 22:59:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,15 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+|samsungcloudsolution.net^
+|samsungcloudsolution.com^
+||fkp.samsungcloudsolution.
+|samsungqbe.com^
+||api.*.hismarttv.com^
+||oempprd.samsungcloudsolution.
+||fls-*.amazon.com^
+||hbbtv.*.de^
+|lgtvsdp.com^
 ||zazgiyoh*.world^
 ||zcchyr*.xyz^
 ||tupian888.*.bcebos.com^
@@ -183,20 +192,10 @@ advertisers.js|
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-|samsungcloudsolution.net^
-|samsungcloudsolution.com^
-||fkp.samsungcloudsolution.
-|samsungqbe.com^
-||api.*.hismarttv.com^
-||oempprd.samsungcloudsolution.
-||fls-*.amazon.com^
-||hbbtv.*.de^
-|lgtvsdp.com^
 ||bc.geocities.
 ||stw.extreme-down.
 ||collector-*.luigisbox.com^
 ||matt.mercadolibre.
-||tccd.douglas.
 ||stats*.credit-cooperatif.coop^
 ||ub.galaxus.
 ||hn-ping*.hashnode.com^
@@ -304,6 +303,7 @@ analytics-*.aasaam.com
 ||pijama.*.elasticbeanstalk.com^
 ||ad*.wisenut.co.kr^
 ||ali-bj-pcdn-*.biliapi.net^
+||tccd.douglas.
 ||device-metrics-us*.amazon.com^
 ||suite*.linximpulse.net^
 ||cnt.nuvid.
